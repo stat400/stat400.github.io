@@ -10,3 +10,6 @@ https://github.com/poole/poole#usage
 
 kramdown markdown:
 https://kramdown.gettalong.org/quickref.html
+
+github revert issues:
+https://stackoverflow.com/questions/22682870/git-undo-pushed-commits
