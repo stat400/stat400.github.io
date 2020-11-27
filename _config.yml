@@ -7,7 +7,7 @@ remote_theme:     fongandrew/hydeout
 title:            STAT400
 tagline:          'Statistics and Probability I'
 description:      'Instructor: Albert Yu'
-url:              /
+url:              https://stat400.github.io/
 baseurl:          /
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
