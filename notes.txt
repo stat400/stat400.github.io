@@ -1,0 +1,12 @@
+Here are some links for resource/future use :)
+
+link for running locally: http://localhost:4000/
+
+https://www.vgemba.net/blog/Setup-Jekyll-WSL/
+https://jekyll-windows.juthilo.com/3-syntax-highlighting/
+https://github.com/fongandrew/hydeout
+https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll
+https://github.com/poole/poole#usage
+
+kramdown markdown:
+https://kramdown.gettalong.org/quickref.html
