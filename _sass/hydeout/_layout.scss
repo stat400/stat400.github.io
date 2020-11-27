@@ -72,10 +72,34 @@ body {
 // Hide secondary nav content in sidebar
 // Hide lead paragraph in sidebar
 #sidebar {
+  // header ~ *,
+  // header ~ nav,
+  // p.lead {
+  //   display: none;
+  // }
+
+  // Center sidebar content
+  text-align: center;
+
+  // Bigger title
+  .site-title {
+    font-size: 3.25rem;
+  }
+
+  // Show secondary nav content + lead
   header ~ *,
-  header ~ nav,
   p.lead {
-    display: none;
+    display: block;
+  }
+
+  header ~ nav {
+    display: flex;
+  }
+
+  // Slightly more bottom padding to compensate for heading not match 100% of
+  // line-height on top
+  > *:last-child {
+    margin-bottom: 0.5rem;
   }
 }
 
