@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 remote_theme:     fongandrew/hydeout
 
-# Setup
+# Setup (Hidden tab summary)
 title:            STAT400
-tagline:          'A Jekyll theme'
+tagline:          'Statistics and Probability I'
 description:      'Instructor: Albert Yu'
-url:              https://fongandrew.github.io
+url:              https://www.linkedin.com/in/akevli/
 baseurl:          /
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,10 +16,10 @@ baseurl:          /
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Alexander Li'
+  url:            https://github.com/akevli
 
-paginate:         5
+paginate:         1000
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
