@@ -22,6 +22,14 @@
   we want the sidebar or header to stretch.
 */
 
+.responsive_calendar {
+  position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+}
+
+.responsive_calendar iframe {
+  position: absolute; top:0; left: 0; width: 100%; height: 100%;
+}
+
 body {
   background-attachment: fixed;
   background-color: $sidebar-bg-color;
