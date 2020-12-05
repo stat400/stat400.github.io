@@ -22,6 +22,8 @@
   we want the sidebar or header to stretch.
 */
 
+// CSS for div-class responsive_calendar
+// Scales embed Google Calendar to device height/width
 .responsive_calendar {
   position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
 }
