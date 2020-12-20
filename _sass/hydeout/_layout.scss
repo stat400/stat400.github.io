@@ -22,13 +22,13 @@
   we want the sidebar or header to stretch.
 */
 
-// CSS for div-class responsive_calendar
+// CSS for div-class embed scaling
 // Scales embed Google Calendar to device height/width
-.responsive_calendar {
+.embed_scaling {
   position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
 }
 
-.responsive_calendar iframe {
+.embed_scaling iframe {
   position: absolute; top:0; left: 0; width: 100%; height: 100%;
 }
 
