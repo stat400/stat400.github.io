@@ -29,8 +29,8 @@ PDF / PMF Visualizations
 [3D-plot](https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/)
 
 [Probability Cheatsheet](https://stat400.github.io/PDFs/reference_materials/probability_cheat_sheet.pdf)
-* This document contains lots of information that is not covered in the scope of our course. <br> It is only being added as a concise (and excellent) reference!
+- This document contains lots of information that is not covered in the scope of our course. <br> It is only being added as a concise (and excellent) reference!
 
-Relationships Between Random Variables
+### Relationships Between Random Variables
 
 ![Relationship](https://stat400.github.io/PDFs/reference_materials/R.png)
