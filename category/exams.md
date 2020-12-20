@@ -3,25 +3,30 @@ layout: category
 title: Exams
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+<h2> Exam Instructions </h2>
 
-```md
----
-layout: category
-title: My Category
----
-```
+<p>We will be using CBTF Proctoring. Exam will be accessed in the cbtf checkin and will contain a link to the exam on box. You will turn in the exam via Gradescope. Midterms are given 1 hour 50 minutes. Finals are given 2 hours 50 minutes. You will have 20 minutes after the exam period to upload to Gradescope. Blah blah blah pls Michelle write good instructions ty.</p>
 
-Or ...
+<br>
+<h2>Midterm 1</h2>
+<h3>Date: </h3>
+<h3>Lectures Covered</h3>
+* MOM
+* MLE
+* Poisson
+* Gamma
 
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
+<br>
+<h2>Midterm 2</h2>
+<h3>Date: </h3>
+<h3>Lectures Covered: </h3>
 
-Posts get listed below here.
+<br>
+<h2>Midterm 3</h2>
+<h3>Date: </h3>
+<h3>Lectures Covered: </h3>
+
+<br>
+<h2>Final Exam</h2>
+<h3>Date: </h3>
+<h3>Lectures Covered: </h3>
