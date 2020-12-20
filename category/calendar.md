@@ -100,6 +100,10 @@ Populating empty space for testing purposes
 
 <h2 id = "Week8"> Week 8 <h2>
 
+<iframe id="kmsembed-1_0dxz953f" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_0dxz953f/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+
+<h6><a href="https://stat400.github.io/PDFs/test/test.pdf" target="_blank">test_pdf</a></h6>
+
 <h2 id = "Week9"> Week 9 <h2>
 
 <h2 id = "Week10"> Week 10 <h2>
@@ -115,11 +119,3 @@ Populating empty space for testing purposes
 <h2 id = "Week15"> Week 15 <h2>
 
 <h2 id = "Week16"> Week 16 <h2>
-
-Test Video Mediaspace
-<iframe id="kmsembed-1_0dxz953f" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_0dxz953f/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
-
-<h2>Test PDF File</h2>
-<a href="https://stat400.github.io/PDFs/test/test.pdf" target="_blank">test_pdf</a>
-
-Testing 
