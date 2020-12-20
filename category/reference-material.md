@@ -3,25 +3,12 @@ layout: category
 title: Reference Material
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+Tables
+: [Normal Table](https://stat400.github.io/PDFs/reference_materials/normal_table.pdf)
+: [T Distribution Table](https://stat400.github.io/PDFs/reference_materials/t_dist_table.pdf)
+: [Chi Squared Table](https://stat400.github.io/PDFs/reference_materials/chi_sq_table.pdf)
+: [Poisson Table](https://stat400.github.io/PDFs/reference_materials/PoissonCDF.pdf)
 
-```md
----
-layout: category
-title: My Category
----
-```
-
-Or ...
-
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
+Distributions
+: [Discrete Distributions](https://stat400.github.io/PDFs/reference_materials/discrete_distributions.pdf)
+: [Continuous Distributions](https://stat400.github.io/PDFs/reference_materials/continuous_distributions.pdf)
