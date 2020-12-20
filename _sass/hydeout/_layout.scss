@@ -25,7 +25,7 @@
 // CSS for div-class embed scaling
 // Scales embed Google Calendar to device height/width
 .embed_scaling {
-  position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+  position: relative; padding-right: 0%; padding-bottom: 75%; height: 0; overflow: hidden;
 }
 
 .embed_scaling iframe {
@@ -264,7 +264,8 @@ body {
     }
 
     > * {
-      max-width: 38rem;
+      // Alters width of page 
+      max-width: 100%;
       padding: 0;
     }
   }
