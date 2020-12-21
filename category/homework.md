@@ -3,8 +3,6 @@ layout: category
 title: Homework
 ---
 
-
-Testing Homework Table
 <div class = "Homework-Table">
     <table>
         <thead>
@@ -19,7 +17,7 @@ Testing Homework Table
           <tr>
             <td>Week 1</td>
             <td><a href="https://stat400.github.io/PDFs/test/test.pdf" target="_blank">Homework 1</a></td>
-            <td>Homework 1 Solutions</td>
+            <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Homework 1 Solutions</a></td>
             <td></td>
           </tr>
           <tr>
@@ -38,6 +36,54 @@ Testing Homework Table
             <td>Week 4</td>
             <td>Homework 4</td>
             <td>Homework 4 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 5</td>
+            <td>Homework 5</td>
+            <td>Homework 5 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 6</td>
+            <td>Homework 6</td>
+            <td>Homework 6 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 7</td>
+            <td>Homework 7</td>
+            <td>Homework 7 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 8</td>
+            <td>Homework 8</td>
+            <td>Homework 8 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 9</td>
+            <td>Homework 9</td>
+            <td>Homework 9 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 10</td>
+            <td>Homework 10</td>
+            <td>Homework 10 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 11</td>
+            <td>Homework 11</td>
+            <td>Homework 11 Solutions</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Week 12</td>
+            <td>Homework 12</td>
+            <td>Homework 12 Solutions</td>
             <td></td>
           </tr>
         </tbody>

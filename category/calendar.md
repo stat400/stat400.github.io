@@ -98,7 +98,7 @@ Testing Calendar Grid [Spring 2021]
       </table>
     </div>
 
-<h2 id = "Week1"> Week 1 <h2>
+<h2 id = "Week1"> Week 1 (This is done in html)<h2>
 <h3><a href="https://stat400.github.io/PDFs/test/test.pdf" target="_blank">test hyperlink</a></h3>
 <h3> Topics: Probability</h3>
 <h4> Recommended Textbook Pages: </h4>
