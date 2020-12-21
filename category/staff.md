@@ -16,8 +16,7 @@ title: Meet the Crouse Staff!
 ### Eddie Cardenas-Torres
 
 ### Jaideep Mahajan
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Jaideep_Mahajan.jpg" alt="Jaideep Mahajan" 
-style="width:200px;">
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Jaideep_Mahajan.jpg" alt="Jaideep Mahajan" style="width:200px;">
 
 
 
