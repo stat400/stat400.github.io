@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Meet the Crouse Staff!
+title: Meet the Course Staff!
 ---
 
 ## Instructor

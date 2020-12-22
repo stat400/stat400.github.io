@@ -5,7 +5,6 @@ title: Exams
 
 <h3><a href="#Exam-FAQ">Exam FAQ</a></h3>
 
-<br>
 <h2>Midterm 1</h2>
 <h3>Date: </h3>
 <h3>Lectures Covered</h3>
