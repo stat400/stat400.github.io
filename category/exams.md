@@ -77,7 +77,7 @@ Q: Can I use Discord to message Albert during the exam if I have questions?
 : A: You are not allowed to use Discord during the exam. If you are confused about an exam problem, please complete the question to the best of your ability and ask Albert in a direct message through Discord after you have submitted.
 
 Q: How much time do we have to complete the exam?
-: A: You will have 90 minutes to complete the midterms and 2 hours and 50 minutes to complete the final exam. You then have 20 minutes to properly submit your exam to [Gradescope](https://www.gradescope.com/). (e.g. 7:00-8:20PM to complete the exam and 8:20-8:40PM to submit).
+: A: You will have 90 minutes to complete the midterms and 2 hours and 50 minutes to complete the final exam. You then have 20 minutes to properly submit your exam to [Gradescope](https://www.gradescope.com/). (e.g. 7:00-8:30PM to complete the exam and 8:30-8:50PM to submit).
 
 Q: What do I do if Gradescope will not let me submit?
 : A: Please convert your exam work to a pdf and email it to Albert with an explanation of the issue. As long as your email’s timestamp meets the deadline for Gradescope submission, you will not be penalized.
