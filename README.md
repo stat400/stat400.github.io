@@ -8,7 +8,9 @@
 1. Install WSL - [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * I am currently using Ubuntu 18.04 LTS
 2. Install git - [guide](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git)
+* May have to install git for windows, too
 3. Install jekyll for WSL - [guide](https://www.vgemba.net/blog/Setup-Jekyll-WSL/)
+* _Note: Users do not need to install jekyll for Windows if they are using WSL._
 
 
 ### Markdown vs html
