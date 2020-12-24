@@ -1,3 +1,54 @@
+# Stat 400 Course Website
+
+**Author**: Alexander Li - [`akli2@illinois.edu`](mailto:akli2@illinois.edu)
+
+## Setting up Environment
+
+### General Instructions
+1. Install WSL - [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* I am currently using Ubuntu 18.04 LTS
+2. Install git - [guide](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git)
+3. Install jekyll for WSL - [guide](https://www.vgemba.net/blog/Setup-Jekyll-WSL/)
+
+
+### Markdown vs html
+
+in .md files, both **[kramdown](https://kramdown.gettalong.org/quickref.html)** and **html** are supported.
+
+### Jekyll
+This webpage uses jekyll 3.9.0.
+
+```
+jekyll serve
+```
+You can now access a local version of the course webpage at http://localhost:4000/. Everytime you make changes to a file, save and jekyll will update the local version.
+
+## File Directory
+
+### /_layouts
+* These are layouts written in html that can be applied to different .md files under the /category folder.
+
+### /category
+* Category pages are automatically added to the sidebar. All other pages
+  must have `sidebar_link: true` in their front matter to show up in
+  the sidebar. To create a category page, use the `category` layout"
+
+  ```
+  ---
+  layout: category
+  title: My Category
+  ---
+
+  Description of "My Category"
+  ```
+
+### /PDFS/
+* Files/Images that are used as attachments are placed in here. 
+
+### Additional notes
+* index.html controls the main page
+* Dependencies and setup can be found in _config.yml
+
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
