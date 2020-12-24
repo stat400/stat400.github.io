@@ -6,11 +6,31 @@
 
 ### General Instructions
 1. Install WSL - [guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+* After activating via powershell reboot computer
 * I am currently using Ubuntu 18.04 LTS
+```
+sudo apt update
+sudo apt upgrade
+```
+2. Install [Visual Studio Code](https://code.visualstudio.com/) 
+* Restart terminal
+
 2. Install git - [guide](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-git)
+
+```
+git --version
+sudo apt-get install git
+```
+
 * May have to install git for windows, too
 3. Install jekyll for WSL - [guide](https://www.vgemba.net/blog/Setup-Jekyll-WSL/)
 * _Note: Users do not need to install jekyll for Windows if they are using WSL._
+
+https://github.com/kramdown/parser-gfm
+
+https://github.com/jekyll/jekyll-gist
+
+### Tutorial
 
 
 ### Markdown vs html
