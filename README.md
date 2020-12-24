@@ -28,10 +28,18 @@ sudo apt-get install git
 
 https://github.com/kramdown/parser-gfm
 
+```
+gem install kramdown-parser-gfm
+```
+
+```
+gem install bundler -v 2.1.2
+bundle _2.1.2_ -v
+gem uninstall bundler --version 2.2.3
+bundle
+```
+
 https://github.com/jekyll/jekyll-gist
-
-### Tutorial
-
 
 ### Markdown vs html
 
