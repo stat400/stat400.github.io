@@ -31,6 +31,8 @@ title: Exams
 <br>
 <h2 id = "Exam-FAQ"> Exam FAQ </h2>
 
+<h3> <i> <b> Exam FAQ is currently in development. </b> </i> </h3>
+
 Q: How many exams are there?
 : A: There are three midterms and one final exam.
 
@@ -40,8 +42,8 @@ Q: How much are our exams worth?
 Q: Are the exams proctored?
 : A: ~~Yes, the exams are proctored through the [Computer-Based Testing Facility](https://cbtf.engr.illinois.edu/). It is your responsibility to register for the appropriate exam before the test date and check-in on time for testing. For each exam, please make sure you properly set up your workspace in accordance with [CBTF instructions](https://cbtf.engr.illinois.edu/cbtf-online/students/phone.html).~~
 
-~~Q: How does the CBTF proctoring work?
-: A: You must register for an exam slot. You will receive emails reminding you to do so. You will be able to check-in 10 minutes prior to your exam slot. When you check-in, you will be given a Zoom link to sign onto. From there, you will follow the directions of your proctor.~~
+Q: How does the CBTF proctoring work?
+: A: ~~You must register for an exam slot. You will receive emails reminding you to do so. You will be able to check-in 10 minutes prior to your exam slot. When you check-in, you will be given a Zoom link to sign onto. From there, you will follow the directions of your proctor.~~
 
 Q: What do I do if I need a conflict exam?
 : A: ~~Submit a request for a conflict exam through the CBTF website with rationale as to why. You will not be able to register for a conflict exam time until your request is approved.~~
@@ -65,7 +67,7 @@ Q: Can I print out the exam?
 : A: Absolutely. You can print out the exam to work on it during your test period.
 
 Q: Can I use an electronic tablet?
-: ~~A: The CBTF does not allow electronic tablets. You must use the archaic pencil/pen and paper like the rest of us.~~
+: A: ~~The CBTF does not allow electronic tablets. You must use the archaic pencil/pen and paper like the rest of us.~~
 
 Q: Can I eat/drink during the exam?
 : A: Food and drinks are allowed during testing.
