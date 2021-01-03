@@ -31,7 +31,7 @@ I’m Jaideep, a first year PhD student in the Statistics department. As I am a 
 
 ### Siddhanth Sabharwal
 
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Siddhanth_Sabharwal_Bio.jpg" alt="Siddhanth Sabharwal" style="width:200px;">
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Siddhanth_Sabharwal_Bio.jpeg" alt="Siddhanth Sabharwal" style="width:200px;">
 
 My name is Siddhanth Sabharwal. I am a first-year PhD student in the Department of Statistics. Some research areas of interest for me are network analysis problems. My favorite topic covered in STAT 400 is Hypothesis Testing. My favorite place to study on campus is the Tech Plaza. My hobbies include watching a lot of sports and thinking about my next car. A fun fact about myself is I am from the Bay Area, let me know if you are too — it’s always nice to talk to someone about home!
 
@@ -53,7 +53,7 @@ I am Tianning Xu, a third-year PhD student in the Department of Statistics. My r
 
 ### Benny Zhao
 
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Benny_Zhao_Bio.jpg" alt="Benny Zhao" style="width:200px;">
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Benny_Zhao_Bio.png" alt="Benny Zhao" style="width:200px;">
 
 Hi, my name is Benny, and I'm a second-year Mathematics student in the College of Liberal Arts & Sciences. My favorite topic covered in STAT 400 is bivariate distributions. My favorite place to study on campus pre-Covid is the ACES Library, since it was usually quiet and it wasn't too far from where I had lived on campus. In my free time, I enjoy listening to music. A fun fact about myself is that I particularly enjoy listening to music from video game soundtracks. I wish you a great semester, and hopefully some fun in learning
 
@@ -67,6 +67,6 @@ Hey, friends. I’m Michelle, a sophomore studying Finance in the Gies College o
 
 ### Sagar Katiyar
 
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Sagar_Katiyar_Bio.jpg" alt="Sagar Katiyar" style="width:200px;">
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Sagar_Katiyar_Bio.png" alt="Sagar Katiyar" style="width:200px;">
 
 Hi! My name is Sagar and I am a senior majoring in Electrical Engineering and minoring in Statistics and Computer Science. I took STAT 400 in Spring 2020 and had the most fun doing Hypothesis Testing. My favorite place to study on campus is the break room in the Illini Union basement. As for hobbies, I have quite a few. I enjoy playing the guitar, piano and drums, scuba diving, and sometimes painting during my free time. A fun fact about myself: Despite being a lazy sloth by nature, whenever something new intrigues me, I waste no time in trying to learn about it. As such, I’ve acquired a rather weird skillset. STAT 400 is a really fun course so the best way to succeed in it is to start your homework early, ask questions and simply keep your eyes open. Looking forward to getting to know all of you over this semester. Feel free to reach out to me if you have any questions, academic or otherwise. Good luck!
