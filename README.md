@@ -78,6 +78,7 @@ You can now access a local version of the course webpage at http://localhost:400
 ### Additional notes
 * index.html controls the main page
 * Dependencies and setup can be found in _config.yml
+* *favicon.ico* and *favicon.png* are used for the icon of the website in the browser tab
 
 # Hydeout
 
