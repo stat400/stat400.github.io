@@ -34,5 +34,10 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+# Google Analytics
+google_analytics: G-6K59JQ09W8
+
 exclude:
   - .jekyll-cache
+

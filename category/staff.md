@@ -2,6 +2,7 @@
 layout: category
 title: Meet the Course Staff!
 ---
+<!-- TODO: STAIRCASE CSS STYLE -->
 
 ## Instructor
 
