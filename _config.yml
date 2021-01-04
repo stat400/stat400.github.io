@@ -36,7 +36,7 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 # Google Analytics
-google_analytics: UA-186436814-1
+google_analytics: G-CEYE831DPQ
 
 exclude:
   - .jekyll-cache
