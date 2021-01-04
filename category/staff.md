@@ -14,21 +14,18 @@ title: Meet the Course Staff!
 
 ### David Kim
 
+### David Lundquist
+
 ### Eddie Cardenas-Torres
 
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/eddie_cardenas_jr.png" alt="Eddie Cardenas" style="width:200px;">
 
-Hey guys, I’m Eddie, and I am a second-year PhD student in the Department of Statistics. My research areas include biostatistics and high-dimensional statistics and decision theory. My favorite topic in this course is Maximum Likelihood Estimators. I’ll study anywhere as long as I am with the homies. My hobbies include water polo, soccer, and American football. A fun fact about me is that I am from California. I hope you can guess what my favorite cartoon is. We’ll show you why you should love statistics.
+Hey guys, I’m Eddie, and I am a second-year PhD student in the Department of Statistics. My research areas include biostatistics and high-dimensional statistics and decision theory. My favorite topic in this course is Maximum Likelihood Estimators. I’ll study anywhere as long as I am with the homies. My hobbies include water polo, soccer, and American football. A fun fact about me is that I am from California. We’ll show you why you should love statistics.
 
 ### Jaideep Mahajan
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/jaideep_mahajan.jpg" alt="Jaideep Mahajan" style="width:200px;">
 
-
-
 I’m Jaideep, a first year PhD student in the Statistics department. As I am a first year student, I haven’t really decided on a research topic yet! My favorite topics for this course would be point estimation and confidence intervals. Sadly, I haven’t really been on campus yet, so I don’t have any place that I like. I enjoy watching anime and k-dramas. I spend most of my time playing Valorant and Rocket League, that is if I am not watching anime or studying. Feel free to message me anytime! Have a good semester.
-
-
-### Jim Yici Yan
 
 ### Siddhanth Sabharwal
 
