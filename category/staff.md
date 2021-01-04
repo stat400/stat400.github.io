@@ -52,11 +52,13 @@ I am Tianning Xu, a third-year PhD student in the Department of Statistics. My r
 
 ### Alex Li
 
+Hi all. My name is Alex, and I am currently in my second year pursuing my Bachelor's in Computer Science + Statistics. My favorite topics in STAT 400 are Bias and Maximum Likelihood Estimators. My favorite place to study is on the grass. I love playing table tennis and cooking. A fun fact about me is that I created this website! Don’t hesitate to reach out to me if you have any questions about statistics, life, or anything really!
+
 ### Benny Zhao
 
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/benny_zhao.png" alt="Benny Zhao" style="width:200px;">
 
-Hi, my name is Benny, and I'm a second-year Mathematics student in the College of Liberal Arts & Sciences. My favorite topic covered in STAT 400 is bivariate distributions. My favorite place to study on campus pre-Covid is the ACES Library, since it was usually quiet and it wasn't too far from where I had lived on campus. In my free time, I enjoy listening to music. A fun fact about myself is that I particularly enjoy listening to music from video game soundtracks. I wish you a great semester, and hopefully some fun in learning
+Hi, my name is Benny, and I'm a second-year Mathematics student in the College of Liberal Arts & Sciences. My favorite topic covered in STAT 400 is bivariate distributions. My favorite place to study on campus pre-Covid is the ACES Library, since it was usually quiet and it wasn't too far from where I had lived on campus. In my free time, I enjoy listening to music. A fun fact about myself is that I particularly enjoy listening to music from video game soundtracks. I wish you a great semester, and hopefully some fun in learning.
 
 ### Evan Ripperger
 
