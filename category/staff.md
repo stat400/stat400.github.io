@@ -44,7 +44,7 @@ I’m Theren, and I am a second-year PhD student in the Department of Statistics
 
 ### Tianning Xu
 
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/tianning_xu.jpg" alt="Tianning Xu" style="width:200px;">
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/tianning_xu.png" alt="Tianning Xu" style="width:200px;">
 
 I am Tianning Xu, a third-year PhD student in the Department of Statistics. My research interests lie in sequential decision making under uncertainty and statistical inference for ensemble models. For this course, I like the Maximum Likelihood Estimator best. You will soon find it surprisingly useful in many applications of statistical inference and learning. In my leisure time, I like photography, but such activities are suspended due to Covid-19. Also, I enjoy games and some light workouts with my Switch. STAT 400 might be your first or second exposure to statistics; I hope that you enjoy this course and that it can give you full confidence to explore more advanced statistics courses of your own interests.
 
@@ -72,6 +72,6 @@ Hey, friends. I’m Michelle, a sophomore studying Finance in the Gies College o
 
 ### Sagar Katiyar
 
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/sgar_katiyar.png" alt="Sagar Katiyar" style="width:200px;">
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/sagar_katiyar.png" alt="Sagar Katiyar" style="width:200px;">
 
 Hi! My name is Sagar and I am a senior majoring in Electrical Engineering and minoring in Statistics and Computer Science. I took STAT 400 in Spring 2020 and had the most fun doing Hypothesis Testing. My favorite place to study on campus is the break room in the Illini Union basement. As for hobbies, I have quite a few. I enjoy playing the guitar, piano and drums, scuba diving, and sometimes painting during my free time. A fun fact about myself: Despite being a lazy sloth by nature, whenever something new intrigues me, I waste no time in trying to learn about it. As such, I’ve acquired a rather weird skillset. STAT 400 is a really fun course so the best way to succeed in it is to start your homework early, ask questions and simply keep your eyes open. Looking forward to getting to know all of you over this semester. Feel free to reach out to me if you have any questions, academic or otherwise. Good luck!
