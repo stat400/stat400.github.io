@@ -16,7 +16,7 @@ title: Meet the Course Staff!
 
 ### Eddie Cardenas-Torres
 
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/eddie_cardenas.jpg" alt="Eddie Cardenas" style="width:200px;">
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/eddie_cardenas_jr.png" alt="Eddie Cardenas" style="width:200px;">
 
 Hey guys, I’m Eddie, and I am a second-year PhD student in the Department of Statistics. My research areas include biostatistics and high-dimensional statistics and decision theory. My favorite topic in this course is Maximum Likelihood Estimators. I’ll study anywhere as long as I am with the homies. My hobbies include water polo, soccer, and American football. A fun fact about me is that I am from California. I hope you can guess what my favorite cartoon is. We’ll show you why you should love statistics.
 
