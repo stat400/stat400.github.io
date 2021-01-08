@@ -49,6 +49,8 @@ I am Tianning Xu, a third-year PhD student in the Department of Statistics. My r
 
 ### Alex Li
 
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/alexander_li.png" alt="Alex Li" style="width:200px;">
+
 Hi all. My name is Alex, and I am currently in my second year pursuing my Bachelor's in Computer Science + Statistics. My favorite topics in STAT 400 are Bias and Maximum Likelihood Estimators. My favorite place to study is on the grass. I love playing table tennis and cooking. A fun fact about me is that I created this website! Don’t hesitate to reach out to me if you have any questions about statistics, life, or anything really!
 
 ### Benny Zhao
