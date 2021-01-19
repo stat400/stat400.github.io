@@ -8,6 +8,10 @@ title: Meet the Course Staff!
 
 ### Albert Yu
 
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/albert_yu.jpg" alt="Albert Yu" style="width:200px;">
+
+Welcome to Stat 400! I am an instructor in the Department of Statistics. After getting a BS in Nuclear Engineering at Georgia Tech, I worked for Delta Air Lines and spent two years teaching middle school. I went back to school to study statistics at Virginia Tech. My hobbies include racquetball, Home Depot, and asking students to read the syllabus.
+
 ## Teaching Assistants
 
 ### Chris Qian
