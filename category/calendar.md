@@ -26,42 +26,42 @@ title: Schedule
           </tr>
           <tr>
             <td><a href="#Week3">Week 3</a> &ndash; (2/8 - 2/12)</td>
-            <td></td>
+            <td>Random Variables (Discrete) <b>(2.1)</b>, Expectation <b>(2.2)</b>, Variance, Standard Deviation <b>(2.3)</b></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="#Week4">Week 4</a> &ndash; (2/15 - 2/19)</td>
-            <td></td>
+            <td>Binomial Distribution <b>(2.4)</b>, Geometric and Negative Binomial Distribution <b>(2.5)</b>, Hypergeometric and Multinomial Distribution <b>(2.4)</b>, Poisson Distribution <b>(2.6)</b>, Moment Generating Function <b>(2.3)</b></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="#Week5">Week 5</a> &ndash; (2/22 - 2/26)</td>
-            <td></td>
+            <td>Continuous Random Variables <b>(3.1)</b></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="#Week6">Week 6</a> &ndash; (3/1 - 3/5)</td>
-            <td></td>
+            <td>Uniform and Exponential Distribution <b>(3.2)</b>, Gamma Distribution <b>(3.2)</b>, Normal Distribution <b>(3.3)</b>, Bivariate Distributions (Discrete) <b>(4.1)</b></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="#Week7">Week 7</a> &ndash; (3/8 - 3/12)</td>
-            <td></td>
+            <td>Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b>(4.2)</b>, (part 1)  Functions of Normal Random Variables  <b>(5.5)</b>, Central Limit Theorem <b>(5.6)</b></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="#Week8">Week 8</a> &ndash; (3/15 - 3/19)</td>
-            <td></td>
+            <td>Covariance <b>(4.2)</b>, CLT <b>(5.5 and 5.6)</b></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="#Week9">Week 9</a> &ndash; (3/22 - 3/26)</td>
-            <td></td>
+            <td>Point Estimation (Maximum Likelihood, Method of Moments) <b>(6.4)</b>, Unbiasedness <b>(6.4)</b></td>
             <td></td>
           </tr>
           <tr>
             <td><a href="#Week10">Week 10</a> &ndash; (3/29 - 4/2)</td>
-            <td></td>
+            <td>Student's t Distribution <b>(5.5)</b>, Confidence Intervals for Means <b>(7.1)</b>, Sample Size <b>(7.4)</b>, Chi-Squared Distribution <b>(3.2)</b>, Confidence Interval for Variances and Standard Deviations <b>***</b></td>
             <td></td>
           </tr>
           <tr>
