@@ -100,46 +100,54 @@ title: Schedule
 
 <h2 id = "Week1"> Week 1<h2>
 <h4><a href="https://stat400.github.io/PDFs/test/test.pdf" target="_blank">test hyperlink</a></h4>
-<h3> Topics: Probability</h3>
+<h3> Topics: </h3>
+Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RStudio
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week2"> Week 2 <h2>
-<h3> Topics: Stats</h3>
+<h3> Topics: </h3>
+Conditional Probability <b>(1.3)</b>, Independent Events <b>(1.4)</b>, Bayes Theorem <b>(1.5)</b>
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week3"> Week 3 <h2>
 <h3> Topics: </h3>
+Random Variables (Discrete) <b>(2.1)</b>, Expectation <b>(2.2)</b>, Variance, Standard Deviation <b>(2.3)</b>
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week4"> Week 4 <h2>
 <h3> Topics: </h3>
+Binomial Distribution <b>(2.4)</b>, Geometric and Negative Binomial Distribution <b>(2.5)</b>, Hypergeometric and Multinomial Distribution <b>(2.4)</b>, Poisson Distribution <b>(2.6)</b>, Moment Generating Function <b>(2.3)</b>
 <h4> Recommended Textbook Pages: </h4>
 
 
 <h2 id = "Week5"> Week 5 <h2>
 <h3> Topics: </h3>
+Continuous Random Variables <b>(3.1)</b>
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week6"> Week 6 <h2>
 <h3> Topics: </h3>
+Uniform and Exponential Distribution <b>(3.2)</b>, Gamma Distribution <b>(3.2)</b>, Normal Distribution <b>(3.3)</b>, Bivariate Distributions (Discrete) <b>(4.1)</b>
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week7"> Week 7</h2>
 <h3> Topics: </h3>
+Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b>(4.2)</b>, (part 1)  Functions of Normal Random Variables  <b>(5.5)</b>, Central Limit Theorem <b>(5.6)</b>
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week8"> Week 8 <h2>
 <h3> Topics: </h3>
+Covariance <b>(4.2)</b>, CLT <b>(5.5 and 5.6)</b>
 <h4> Recommended Textbook Pages: </h4>
-
-
 
 <h2 id = "Week9"> Week 9 <h2>
 <h3> Topics: </h3>
+Point Estimation (Maximum Likelihood, Method of Moments) <b>(6.4)</b>, Unbiasedness <b>(6.4)</b>
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week10"> Week 10 <h2>
 <h3> Topics: </h3>
+Student's t Distribution <b>(5.5)</b>, Confidence Intervals for Means <b>(7.1)</b>, Sample Size <b>(7.4)</b>, Chi-Squared Distribution <b>(3.2)</b>, Confidence Interval for Variances and Standard Deviations <b>***</b>
 <h4> Recommended Textbook Pages: </h4>
 
 <h2 id = "Week11"> Week 11 <h2>
