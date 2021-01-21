@@ -16,9 +16,15 @@ Welcome to Stat 400! I am an instructor in the Department of Statistics. After g
 
 ### Chris Qian
 
+Hi, I'm Chris. I'm a first year PhD student in statistics. I'm not sure about my research area yet, but I'd like to do something in machine learning. I think my favorite topic from STAT 400 is computing probabilities from bivariate distributions. The calculus is pretty fun. As for hobbies, I like playing Smash, League, and tennis. I guess a fun fact about myself is that I don't really like watching anime. I much prefer to read manga. I haven't really been to campus, so I have no idea where to study. If you could give me some suggestions, that would be nice. Good luck with the class! Feel free to message me on Discord anytime. 
+
 ### David Kim
 
 ### David Lundquist
+
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/david_lundquist.jpg" alt="David Lundquist" style="width:200px;">
+
+Hi I'm David Lundquist, not to be confused with David Kim. I'm a second-year PhD student, and I particularly like econometrics and sports analytics. You can find can often find me jogging through Champaign-Urbana or biking to school, sun or snow.  My favorite STAT-400 topics are conditional probability, discrete random variables, infinite series, and anything involving combinatorics.  Please ask me anything about statistics, especially if it involves financial applications or sports.
 
 ### Eddie Cardenas-Torres
 
@@ -70,8 +76,6 @@ Hi, my name is Benny, and I'm a second-year Mathematics student in the College o
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/michelle_shen.jpg" alt="Michelle Shen" style="width:200px;">
 
 Hey, friends. I’m Michelle, a sophomore studying Finance in the Gies College of Business with minors in Applied Statistics and Computer Science. Despite this being my first semester as a STAT 400 Course Assistant, I already consider myself the best woman on the team. My favorite topics are Confidence Intervals and Hypothesis Testing. Prior to the pandemic, I would be in the Business Instructional Facility 24/7. In my free time, I play Hades, drink room temperature water, and listen to Carly Rae Jepsen’s entire discography while I camp the STAT 400 Discord server. A fun fact about me is that I absolutely love music, and I was in Chamber Choir for all four years of high school. Reach out anytime about anything; I look forward to getting to know you all!
-
-### Praval Telagi
 
 ### Sagar Katiyar
 
