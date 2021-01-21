@@ -16,6 +16,8 @@ Welcome to Stat 400! I am an instructor in the Department of Statistics. After g
 
 ### Chris Qian
 
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/chris_qian.png" alt="Chris Qian" style="width:200px;">
+
 Hi, I'm Chris. I'm a first year PhD student in statistics. I'm not sure about my research area yet, but I'd like to do something in machine learning. I think my favorite topic from STAT 400 is computing probabilities from bivariate distributions. The calculus is pretty fun. As for hobbies, I like playing Smash, League, and tennis. I guess a fun fact about myself is that I don't really like watching anime. I much prefer to read manga. I haven't really been to campus, so I have no idea where to study. If you could give me some suggestions, that would be nice. Good luck with the class! Feel free to message me on Discord anytime. 
 
 ### David Kim
