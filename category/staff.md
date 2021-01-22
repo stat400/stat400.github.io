@@ -22,11 +22,15 @@ Hi, I'm Chris. I'm a first year PhD student in statistics. I'm not sure about my
 
 ### David Kim
 
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/david_kim.jpg" alt="David Kim" style="width:200px;">
+
+Hello, my name is David Kim. I'm from South Korea and this is my first year as a PhD student in the Department of Statistics. I do not have a concrete research area yet, but I have a broad interest on network analysis and probability theory. My favorite topic in this course is point estimation, particularly finding Maximum Likelihood Estimators! My favorite place to study on campus is Tech Plaza and Illini Union. My hobbies are running and watching baseball. My undergraduate major was Political Science - so I understand how some topics of STAT400 could be unfamilar if you are from other department. If you have any trouble in the class please visit my office hour! We can talk about it together. Hope you have a great semester! 
+
 ### David Lundquist
 
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/david_lundquist.jpg" alt="David Lundquist" style="width:200px;">
 
-Hi I'm David Lundquist, not to be confused with David Kim. I'm a second-year PhD student, and I particularly like econometrics and sports analytics. You can find can often find me jogging through Champaign-Urbana or biking to school, sun or snow.  My favorite STAT-400 topics are conditional probability, discrete random variables, infinite series, and anything involving combinatorics.  Please ask me anything about statistics, especially if it involves financial applications or sports.
+Hi I'm David Lundquist, not to be confused with David Kim. I'm a second-year PhD student, and I particularly like econometrics and sports analytics. You can often find me jogging through Champaign-Urbana or biking to school, sun or snow.  My favorite STAT-400 topics are conditional probability, discrete random variables, infinite series, and anything involving combinatorics.  Please ask me anything about statistics, especially if it involves financial applications or sports.
 
 ### Eddie Cardenas-Torres
 

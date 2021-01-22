@@ -8,10 +8,7 @@ title: Exams
 <h2>Midterm 1</h2>
 <h3>Date: </h3>
 <h3>Lectures Covered</h3>
-* MOM
-* MLE
-* Poisson
-* Gamma
+* 
 
 <br>
 <h2>Midterm 2</h2>
