@@ -99,10 +99,12 @@ title: Schedule
     </div>
 
 <h2 id = "Week1"> Week 1<h2>
-<h4><a href="https://stat400.github.io/PDFs/test/test.pdf" target="_blank">test hyperlink</a></h4>
 <h3> Topics: </h3>
 Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RStudio
-<!-- <h4> Recommended Textbook Pages: </h4> -->
+<h4> Recommended Textbook Pages: </h4>
+<h4><a href="http://www.r-tutor.com/r-introduction" target="_blank">R Intro Tutorial 1</a></h4>
+<h4><a href="https://www.statmethods.net/r-tutorial/index.html" target="_blank">R Intro Tutorial 2</a></h4>
+
 
 <h2 id = "Week2"> Week 2 <h2>
 <h3> Topics: </h3>
