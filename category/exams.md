@@ -41,7 +41,7 @@ Q: How much are our exams worth?
 : A: The midterms are each 50 points. The final exam is 100 points. Each midterm is 15% of your grade, and your final exam is 25% of your grade. As stated in the syllabus, if your final exam score is better than your worst midterm score, your worst midterm score will be dropped and replaced with the final.
 
 Q: Are the exams proctored?
-: A: ~~Yes, the exams are proctored through Zoom by the course staff. It is your responsibility to register for the appropriate exam before the test date and check-in on time for testing. For each exam, please make sure you properly set up your workspace in accordance with instructions.
+: A: Yes, the exams are proctored through Zoom by the course staff. It is your responsibility to register for the appropriate exam before the test date and check-in on time for testing. For each exam, please make sure you properly set up your workspace in accordance with instructions.
 
 
 Q: What do I do if I need a conflict exam?
