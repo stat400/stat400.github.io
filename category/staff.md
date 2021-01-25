@@ -77,6 +77,10 @@ Hi, my name is Benny, and I'm a second-year Mathematics student in the College o
 
 ### Evan Ripperger
 
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/evan_ripperger.jpg" alt="Evan Ripperger" style="width:200px;">
+
+Hello! My name is Evan, and I am a senior mechanical engineering student here at the university. I took statistics during my junior year and really loved solving problems with bivariate distributions. The most interesting word problems come from that topic and it is a joy to solve problems by drawing a little picture instead of writing countless lines of math. Before Covid hit my favorite place to study was in the MEB on the second floor. Even before the virus, not a lot of people visit that building to study, so I enjoyed the quietness and open space. When I am not doing schoolwork, I try to spend time with friends. I enjoy cooking, playing video games, and listening to music. A fun fact about me is that I take care of 12 different plants around my apartment. The oldest plant is an aloe vera I got in middle school and the youngest is a monstera deliciosa that sprouted just two weeks ago! I am excited to be a grader this semester and would be happy to help in any way I can. Reach out to me via discord or email and I can answer any questions I receive. Thanks for reading my bio!
+
 ### Michelle Shen
 
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/michelle_shen.jpg" alt="Michelle Shen" style="width:200px;">
