@@ -18,13 +18,13 @@ All Homework is due at 11:59pm via Gradescope.
             <td>Week 1</td>
             <td><a href="https://stat400.github.io/PDFs/test/test.pdf" target="_blank">Homework 1</a></td>
             <td><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Homework 1 Solutions</a></td>
-            <td>Mon Feb 8</td>
+            <td>Tues Feb 9</td>
           </tr>
           <tr>
             <td>Week 2</td>
             <td>Homework 2</td>
             <td>Homework 2 Solutions</td>
-            <td>Mon Feb 15</td>
+            <td>Tues Feb 16</td>
           </tr>
           <tr>
             <td>Week 3</td>
