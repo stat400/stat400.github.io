@@ -102,6 +102,10 @@ title: Schedule
 <h2 id = "Week1"> Week 1<h2>
 <h3> Topics: </h3>
 Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RStudio
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/Stat 400 Week 1 -Syllabus.pdf" target="_blank">Syllabus and Course Info</a></td>
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/1.1 and Infinite Series Examples.pdf" target="_blank">Properties of Probability, Infinite Series and Examples</a></td>
 <h4> Recommended Textbook Pages: </h4>
 <h4><a href="http://www.r-tutor.com/r-introduction" target="_blank">R Intro Tutorial 1</a></h4>
 <h4><a href="https://www.statmethods.net/r-tutorial/index.html" target="_blank">R Intro Tutorial 2</a></h4>
@@ -111,7 +115,7 @@ Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RS
 <h3> Topics: </h3>
 Conditional Probability <b>(1.3)</b>, Independent Events <b>(1.4)</b>, Bayes Theorem <b>(1.5)</b>
 <!-- <h4> Recommended Textbook Pages: </h4> -->
-
+./
 <h2 id = "Week3"> Week 3 <h2>
 <h3> Topics: </h3>
 Random Variables (Discrete) <b>(2.1)</b>, Expectation <b>(2.2)</b>, Variance, Standard Deviation <b>(2.3)</b>
