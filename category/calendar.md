@@ -103,9 +103,9 @@ title: Schedule (Lectures)
 <h3> Topics: </h3>
 Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RStudio
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/week1/Stat 400 Week 1 -Syllabus.pdf" target="_blank">Syllabus and Course Info</a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/Stat_400_Week_1_Syllabus.pdf" target="_blank">Syllabus and Course Info</a></td>
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs//lectures/week1/1.1 and Infinite Series Examples.pdf" target="_blank">Properties of Probability, Infinite Series and Examples</a></td>
+<td><a href="https://stat400.github.io/PDFs//lectures/week1/1.1_and_Infinite_Series_Examples.pdf" target="_blank">Properties of Probability, Infinite Series and Examples</a></td>
 <h4> Recommended Textbook Pages: </h4>
 <h4><a href="http://www.r-tutor.com/r-introduction" target="_blank">R Intro Tutorial 1</a></h4>
 <h4><a href="https://www.statmethods.net/r-tutorial/index.html" target="_blank">R Intro Tutorial 2</a></h4>
