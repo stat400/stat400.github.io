@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Schedule
+title: Schedule (Lectures)
 ---
 
 [Spring 2021]
@@ -116,7 +116,7 @@ Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RS
 <h3> Topics: </h3>
 Conditional Probability <b>(1.3)</b>, Independent Events <b>(1.4)</b>, Bayes Theorem <b>(1.5)</b>
 <!-- <h4> Recommended Textbook Pages: </h4> -->
-./
+
 <h2 id = "Week3"> Week 3 <h2>
 <h3> Topics: </h3>
 Random Variables (Discrete) <b>(2.1)</b>, Expectation <b>(2.2)</b>, Variance, Standard Deviation <b>(2.3)</b>
