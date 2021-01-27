@@ -110,6 +110,7 @@ Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RS
 <h4><a href="http://www.r-tutor.com/r-introduction" target="_blank">R Intro Tutorial 1</a></h4>
 <h4><a href="https://www.statmethods.net/r-tutorial/index.html" target="_blank">R Intro Tutorial 2</a></h4>
 
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_3oz9tkoo" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_3oz9tkoo/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <h2 id = "Week2"> Week 2 <h2>
 <h3> Topics: </h3>
