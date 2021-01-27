@@ -1,5 +1,5 @@
 ---
 layout: discord_link
-title: Discord
+title: discord
 sidebar_link: false
 ---
