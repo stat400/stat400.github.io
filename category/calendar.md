@@ -100,15 +100,18 @@ title: Schedule (Lectures)
     </div>
 
 <h2 id = "Week1"> Week 1<h2>
-<h3> Topics: </h3>
+<h3> Lecture Notes: </h3>
 Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RStudio
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/week1/Stat_400_Week_1_Syllabus.pdf" target="_blank">Syllabus and Course Info</a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/Stat_400_Week_1_Syllabus.pdf" target="_blank">Syllabus and Course Info</a></td> <-- R installation links
 <h4></h4>
 <td><a href="https://stat400.github.io/PDFs/lectures/week1/1.1_and_Infinite_Series_Examples.pdf" target="_blank">Properties of Probability, Infinite Series and Examples</a></td>
 <h4> Recommended Textbook Pages: 1 - 10 </h4>
-<h4><a href="http://www.r-tutor.com/r-introduction" target="_blank">R Intro Tutorial 1</a></h4>
-<h4><a href="https://www.statmethods.net/r-tutorial/index.html" target="_blank">R Intro Tutorial 2</a></h4>
+<h4><a href="http://www.r-tutor.com/r-introduction" target="_blank">R Intro Tutorial 1</a>, <a href="https://www.statmethods.net/r-tutorial/index.html" target="_blank">R Intro Tutorial 2</a></h4>
+<h4><a href= "https://stat400.github.io/PDFs/lectures/week1/Infinite Series.pdf" target="_blank">Infinite Series Cheatsheet</a>,  <a href= "http://stat400.github.io/PDFs/lectures/week1/doubleintegrals-problems.pdf" target="_blank">Double Integral Examples</a>, 
+<a href= "https://stat400.github.io/PDFs/lectures/week1/doubleintegrals-sol.pdf" target="_blank"> Double Integral Solutions</a></h4>
+
+
 
 <div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_3oz9tkoo" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_3oz9tkoo/uiConfId/26883701/st/310" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
