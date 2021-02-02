@@ -16,7 +16,7 @@ All Homework is due at 11:59pm via Gradescope.
         <tbody>
           <tr>
             <td>Week 1</td>
-            <td>Homework 1 (available Feb 2)</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_1.pdf" target="_blank"> Homework 1</a></td>
             <td>Homework 1 Solutions</td>
             <td>Tues Feb 9</td>
           </tr>
