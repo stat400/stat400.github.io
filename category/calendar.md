@@ -103,11 +103,11 @@ title: Schedule (Lectures)
 <h3> Lecture Notes: </h3>
 Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RStudio
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/week1/Stat_400_Week_1_Syllabus.pdf" target="_blank">Syllabus and Course Info</a></td> <-- R installation links
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/Stat_400_Week_1_Syllabus.pdf" target="_blank">Syllabus and Course Info.pdf</a></td> <-- R installation links
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/week1/1.1_and_Infinite_Series_Examples.pdf" target="_blank">Properties of Probability, Infinite Series and Examples</a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/1.1_and_Infinite_Series_Examples.pdf" target="_blank">Properties of Probability, Infinite Series and Examples.pdf</a></td>
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/week1/1.1 Notes.pdf" target="_blank">Properties of Probability, Infinite Series and Examples (notes) </a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/1.1 Notes.pdf" target="_blank">Properties of Probability, Infinite Series and Examples (notes).pdf </a></td>
 
 
 <h4> Recommended Textbook Pages: 1 - 10 </h4>
@@ -128,6 +128,13 @@ Course Overview, Probability and Set Notation <b>(1.1)</b>, Intro to <b>R</b>/RS
 <h2 id = "Week2"> Week 2 <h2>
 <h3> Topics: </h3>
 Conditional Probability <b>(1.3)</b>, Independent Events <b>(1.4)</b>, Bayes Theorem <b>(1.5)</b>
+<h4></h4>
+
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/2021 Stat 400 1.3.pdf" target="_blank">1.3 Conditional Probability.pdf</a></td>
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/2021 1.4 Independence.pdf" target="_blank">1.4 Independence.pdf</a></td>
+
+
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week3"> Week 3 <h2>
