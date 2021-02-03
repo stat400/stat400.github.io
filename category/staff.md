@@ -14,11 +14,6 @@ Welcome to Stat 400! I am an instructor in the Department of Statistics. After g
 
 
 
-##### chloe
-<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Chloe.jpg" alt="Albert Yu" style="width:200px;">
-
-hi im chloe i like to eat i like to sleep
-
 ## Teaching Assistants
 
 ### Chris Qian
@@ -99,3 +94,10 @@ Hey, friends. I’m Michelle, a sophomore studying Finance in the Gies College o
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/sagar_katiyar.png" alt="Sagar Katiyar" style="width:200px;">
 
 Hi! My name is Sagar and I am a senior majoring in Electrical Engineering and minoring in Statistics and Computer Science. I took STAT 400 in Spring 2020 and had the most fun doing Hypothesis Testing. My favorite place to study on campus is the break room in the Illini Union basement. As for hobbies, I have quite a few. I enjoy playing the guitar, piano and drums, scuba diving, and sometimes painting during my free time. A fun fact about myself: Despite being a lazy sloth by nature, whenever something new intrigues me, I waste no time in trying to learn about it. As such, I’ve acquired a rather weird skillset. STAT 400 is a really fun course so the best way to succeed in it is to start your homework early, ask questions and simply keep your eyes open. Looking forward to getting to know all of you over this semester. Feel free to reach out to me if you have any questions, academic or otherwise. Good luck!
+
+## Mascot
+
+##### Chloe
+<img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Chloe.jpg" alt="Albert Yu" style="width:200px;">
+
+Hi i'm Chloe. i like to play. i like to eat. i like sleep. i like to take walks. i like car rides. i like to run along on bike rides. i like to chase rabbits and squirrels. i'm not allowed to. my favorite store is home depot because i'm allowed to sniff and they give me treats.
