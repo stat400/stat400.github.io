@@ -2,6 +2,11 @@
 layout: category
 title: Reference Material
 ---
+<h4><a href="https://daviddalpiaz.github.io/stat400sp18/#homework" target="_blank">Old Stat 400 Practice Problems (Dalpiaz/Stepanov)</a></h4>
+
+<h4><a href="http://www.r-tutor.com/r-introduction" target="_blank">R Intro Tutorial 1</a>, <a href="https://www.statmethods.net/r-tutorial/index.html" target="_blank">R Intro Tutorial 2</a></h4>
+<h4><a href= "https://stat400.github.io/PDFs/lectures/week1/Infinite Series.pdf" target="_blank">Infinite Series Cheatsheet</a>,  <a href= "http://stat400.github.io/PDFs/lectures/week1/doubleintegrals-problems.pdf" target="_blank">Double Integral Examples</a>, 
+<a href= "https://stat400.github.io/PDFs/lectures/week1/doubleintegrals-sol.pdf" target="_blank"> Double Integral Solutions</a></h4>
 
 Tables
 : [Normal Table](https://stat400.github.io/PDFs/reference_materials/normal_table.pdf){:target="_blank"}
@@ -25,8 +30,6 @@ PDF / PMF Visualizations
 * [Normal](https://homepage.divms.uiowa.edu/~mbognar/applets/normal.html){:target="_blank"}
 * [Chi-Sq](https://homepage.divms.uiowa.edu/~mbognar/applets/chisq.html){:target="_blank"}
 * [t](https://homepage.divms.uiowa.edu/~mbognar/applets/t.html){:target="_blank"}
-
-[3D-plot](https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/){:target="_blank"}
 
 [Probability Cheatsheet](https://stat400.github.io/PDFs/reference_materials/probability_cheat_sheet.pdf){:target="_blank"}
 - This document contains lots of information that is not covered in the scope of our course. <br> It is only being added as a concise (and excellent) reference!
