@@ -2,6 +2,7 @@
 layout: category
 title: Homework
 ---
+
 All Homework is due at 11:59pm via Gradescope.
 <div class = "Homework-Table">
     <table>
@@ -89,3 +90,11 @@ All Homework is due at 11:59pm via Gradescope.
         </tbody>
       </table>
     </div>
+    
+<h4></h4>
+
+<h2 id = "Hw submission"> How to submit homework <u><b>correctly</b></u>:</h2>
+
+If you have already submitted your assignment but did not do this, please re-submit! Gradescope allows you unlimited resubmissions until the deadline.
+
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_9ho7xvf7" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_9ho7xvf7/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
