@@ -148,7 +148,11 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 <h2 id = "Week3"> Week 3 <h2>
 <h3> Topics: </h3>
 <b>(2.1)</b> Random Variables (Discrete), <b>(2.2)</b> Expectation, <b>(2.3)</b> Variance, Standard Deviation
-<!-- <h4> Recommended Textbook Pages: </h4> -->
+<h4> Recommended Textbook Pages: p 20 -37 </h4>
+
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/Spring 21 2.1 Discrete RVs.pdf" target="_blank">2.1 Discrete Random Variables.pdf</a> 
+<h4></h4>
+
 
 <h2 id = "Week4"> Week 4 <h2>
 <h3> Topics: </h3>
