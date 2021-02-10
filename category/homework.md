@@ -18,7 +18,7 @@ All Homework is due at 11:59pm via Gradescope.
           <tr>
             <td>Week 1</td>
             <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_1.pdf" target="_blank"> Homework 1</a></td>
-            <td><a href= "https://youtu.be/ZZ5LpwO-An4" target="_blank"> Homework 1 Solutions</a></td>
+            <td><a href= "https://stat400.github.io/PDFs/homework_solutions/Stat_400_Hw_1_solutions.pdf" target="_blank"> Homework 1 Solutions</a></td>
             <td>Tues Feb 9</td>
           </tr>
           <tr>

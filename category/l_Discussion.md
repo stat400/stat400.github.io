@@ -13,3 +13,6 @@ All solutions are from Eddie Cardenas-Torres' discussion section.
 <h3>Solutions</h3>
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Spring_2021_Wed_Dis_1_Eddie_SOLS.pdf" target="_blank">Wednesday Discussion Solutions.pdf</a>
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Spring_2021_Thur_Dis_1_Eddie_SOLS.pdf" target="_blank">Thursday Discussion Solutions.pdf</a>
+
+<h2 id = "Week1"> Discussion 2 (Week 3)<h2>
+<h4><a href= "https://stat400.github.io/PDFs/discussion/Week3/Discussion_Week_2.pdf" target="_blank">Discussion 2.pdf</a>
