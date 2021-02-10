@@ -18,12 +18,12 @@ All Homework is due at 11:59pm via Gradescope.
           <tr>
             <td>Week 1</td>
             <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_1.pdf" target="_blank"> Homework 1</a></td>
-            <td>Homework 1 Solutions</td>
+            <td><a href= "https://youtu.be/ZZ5LpwO-An4" target="_blank"> Homework 1 Solutions</a></td>
             <td>Tues Feb 9</td>
           </tr>
           <tr>
             <td>Week 2</td>
-            <td>Homework 2</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/Spring_2021_Stat_400_Hw_2.pdf" target="_blank"> Homework 2</a></td>
             <td>Homework 2 Solutions</td>
             <td>Tues Feb 16</td>
           </tr>
@@ -31,7 +31,7 @@ All Homework is due at 11:59pm via Gradescope.
             <td>Week 3</td>
             <td>Homework 3</td>
             <td>Homework 3 Solutions</td>
-            <td></td>
+            <td>Tues Feb 23</td>
           </tr>
           <tr>
             <td>Week 4</td>
