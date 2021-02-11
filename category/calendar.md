@@ -150,7 +150,9 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 <b>(2.1)</b> Random Variables (Discrete), <b>(2.2)</b> Expectation, <b>(2.3)</b> Variance, Standard Deviation
 <h4> Recommended Textbook Pages: p 20 -37 </h4>
 
-<td><a href="https://stat400.github.io/PDFs/lectures/week1/Spring 21 2.1 Discrete RVs.pdf" target="_blank">2.1 Discrete Random Variables.pdf</a> 
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/Spring 21 2.1 Discrete RVs.pdf" target="_blank">2.1 Discrete Random Variables(pdf)</a> 
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week3/S21 2.3.pdf" target="_blank">2.1 - 2.3 Random Variables, Cdf, Variance/SD (pdf)</a> 
 <h4></h4>
 
 <h4> 2.1 Random Variables (before internet died)<h4>
