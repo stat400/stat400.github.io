@@ -150,9 +150,9 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 <b>(2.1)</b> Random Variables (Discrete), <b>(2.2)</b> Expectation, <b>(2.3)</b> Variance, Standard Deviation
 <h4> Recommended Textbook Pages: p 20 -37 </h4>
 
-<td><a href="https://stat400.github.io/PDFs/lectures/week1/Spring 21 2.1 Discrete RVs.pdf" target="_blank">2.1 Discrete Random Variables(pdf)</a> 
+<td><a href="https://stat400.github.io/PDFs/lectures/week1/Spring 21 2.1 Discrete RVs.pdf" target="_blank">2.1 Discrete Random Variables(pdf)</a>   <a href="https://stat400.github.io/PDFs/lectures/Week3/Spring 2021 2.1 Discrete Random Variables notes.pdf" target="_blank">   notes</a></td>
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/Week3/S21 2.3.pdf" target="_blank">2.1 - 2.3 Random Variables, Cdf, Variance/SD (pdf)</a> 
+<td><a href="https://stat400.github.io/PDFs/lectures/Week3/S21 2.3.pdf" target="_blank">2.1 - 2.3 Random Variables, Cdf, Variance/SD (pdf)</a>   <a href="https://stat400.github.io/PDFs/lectures/Week3/S21 2.3 (notes).pdf" target="_blank">   notes</a></td>
 <h4></h4>
 
 <h4> 2.1 Random Variables (before internet died)<h4>
@@ -161,6 +161,8 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 <h4> 2.1 Random Variables (after internet died)<h4>
 <div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_zdsew8hi" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_zdsew8hi/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
+<h4> 2.1-2.3 Random Variables (Variance)<h4>
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_mnneunma" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_mnneunma/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <h2 id = "Week4"> Week 4 <h2>
 <h3> Topics: </h3>
