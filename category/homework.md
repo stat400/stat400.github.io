@@ -29,7 +29,7 @@ All Homework is due at 11:59pm via Gradescope.
           </tr>
           <tr>
             <td>Week 3</td>
-            <td>Homework 3</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/Spring_2021_Stat_400_Hw_3.pdf" target="_blank"> Homework 3</a></td>
             <td>Homework 3 Solutions</td>
             <td>Tues Feb 23</td>
           </tr>
