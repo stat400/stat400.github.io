@@ -24,7 +24,7 @@ All Homework is due at 11:59pm via Gradescope.
           <tr>
             <td>Week 2</td>
             <td><a href= "https://stat400.github.io/PDFs/homework/Spring_2021_Stat_400_Hw_2.pdf" target="_blank"> Homework 2</a></td>
-            <td>Homework 2 Solutions</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework_solutions/Stat_400_Hw_2_Solutions.pdf" target="_blank"> Homework 2 Solutions</a></td>
             <td>Tues Feb 16</td>
           </tr>
           <tr>
