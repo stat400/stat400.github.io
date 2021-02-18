@@ -169,9 +169,9 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 <b>(2.4)</b> Binomial Distribution, <b>(2.5)</b> Geometric and Negative Binomial Distribution, <b>(2.4)</b> Hypergeometric and Multinomial Distribution, <b>(2.6)</b> Poisson Distribution, <b>(2.3)</b> Moment Generating Function
 <h4>Recommended Textbook Reading: Read sections 2.4 - 2.6 first (skipping anything about moments), then section 2.3 (Thursday's class), then go through 2.4 - 2.6 again. </h4>
 
-<td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.4-2.5.pdf" target="_blank">2.4 - 2.5 Bernoulli, Binomial, Geometric, Negative Binomial (.pdf)</a>  
+<td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.4-2.5.pdf" target="_blank">2.4 - 2.5 Bernoulli, Binomial, Geometric, Negative Binomial (.pdf)</a>    <a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.4-2.5 notes.pdf" target="_blank">   notes</a></td>
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.4-2.6.pdf" target="_blank">2.4 - 2.6 Hypergeometric, Multinomial, Poisson (.pdf)</a>  
+<td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.4-2.6.pdf" target="_blank">2.4 - 2.6 Hypergeometric, Multinomial, Poisson (.pdf)</a>  <a href="https://stat400.github.io/PDFs/lectures/Week4/S21 2.4-2.6 notes.pdf" target="_blank">   notes</a></td>
 <h4></h4>
 <td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.3.pdf" target="_blank">2.3 Moment Generating Function (.pdf)</a>  
 <h4></h4>
