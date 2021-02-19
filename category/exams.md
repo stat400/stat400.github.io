@@ -66,7 +66,7 @@ Q: Can I print out the exam?
 : A: Absolutely. You can print out the exam to work on it during your test period.
 
 Q: Can I use an electronic tablet?
-: A: Yes, as long as the proctor can see the screen.
+: A: No.
 
 Q: Can I eat/drink during the exam?
 : A: Food and drinks are allowed during testing.
