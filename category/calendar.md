@@ -47,7 +47,7 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week7">Week 7</a> &ndash; (3/8 - 3/12)</td>
-            <td> <b>(4.4)</b> Bivariate Distributions (Continuous), <b>(4.2)</b> Covariance and Correlation, <b>(5.5)</b> Functions of Normal Random Variables, <b>(5.6)</b> Central Limit Theorem</td>
+            <td> <b>(4.4)</b> Bivariate Distributions (Continuous), <b>(4.2)</b> Covariance and Correlation, <b>(5.5)</b> Functions of Normal Random Variables, <b>(5.6)</b> Law of Large Numbers and Central Limit Theorem</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -67,32 +67,32 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week11">Week 11</a> &ndash; (4/5 - 4/9)</td>
-            <td></td>
+            <td><b>(7.3)</b> Confidence Intervals for Proportions, <b>(8.1)</b> Hypothesis Tests for One Mean,  <b>(8.3)</b> Hypothesis Tests for One Proportion </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week12">Week 12</a> &ndash; (4/12 - 4/16)</td>
-            <td></td>
+            <td><b>(8.2)</b> Hypothesis Tests for Variances and Two Means, EXAM 3</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week13">Week 13</a> &ndash; (4/19 - 4/23)</td>
-            <td></td>
+            <td> <b>(8.3)</b> Hypothesis Tests for Two Proportions, <b>(8.5)</b> Power of a Statistical Test</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week14">Week 14</a> &ndash; (4/26 - 4/30)</td>
-            <td></td>
+            <td> <b>(9.1)</b> Chi-Square Goodness-of-Fit Test, <b>(9.2)</b> Chi-Square Test for Homogeneity and Independence (Contingency Tables), <b>(4.3)</b> Conditional Distributions  </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week15">Week 15</a> &ndash; (5/3 - 5/7)</td>
-            <td></td>
+            <td> Various Topics: Markov's Inequality, Chebyshev's Inequality, Invariance of MLEs, Mean Squared Error</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week16">Week 16</a> &ndash; (5/10 - 5/14)</td>
-            <td></td>
+            <td> Review </td>
             <!-- <td></td> -->
           </tr> 
         </tbody>
@@ -198,7 +198,7 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 
 <h2 id = "Week7"> Week 7</h2>
 <h3> Topics: </h3>
-Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b>(4.2)</b>, (part 1)  Functions of Normal Random Variables  <b>(5.5)</b>, Central Limit Theorem <b>(5.6)</b>
+Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b>(4.2)</b>, (part 1)  Functions of Normal Random Variables  <b>(5.5)</b>, Law of Large Numbers and Central Limit Theorem <b>(5.6)</b>
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week8"> Week 8 <h2>
