@@ -187,7 +187,9 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 <h2 id = "Week5"> Week 5 <h2>
 <h3> Topics: </h3>
 <b>(3.1)</b> Continuous Random Variables
-<!-- <h4> Recommended Textbook Pages: </h4> -->
+<h4> Recommended Textbook Pages: Read section 3.1 (p. 87 - 93). Some good continuous mgf examples in here</h4>
+
+<td><a href="https://stat400.github.io/PDFs/lectures/Week5/S21_3.1.pdf" target="_blank">3.1 Continuous Random Variables (.pdf)</a>  
 
 <h2 id = "Week6"> Week 6 <h2>
 <h3> Topics: </h3>
