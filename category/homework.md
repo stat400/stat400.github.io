@@ -37,7 +37,7 @@ All Homework is due at 11:59pm via Gradescope.
             <td>Week 4</td>
             <td><a href= "https://stat400.github.io/PDFs/homework/Hw4_400Sp21.pdf" target="_blank"> Homework 4</a></td>
             <td>Homework 4 Solutions</td>
-            <td></td>
+            <td>Tues Mar 2</td>
           </tr>
           <tr>
             <td>Week 5</td>

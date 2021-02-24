@@ -184,12 +184,16 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 
 <div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_qg66e77j" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_qg66e77j/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
+
+
 <h2 id = "Week5"> Week 5 <h2>
 <h3> Topics: </h3>
 <b>(3.1)</b> Continuous Random Variables
 <h4> Recommended Textbook Pages: Read section 3.1 (p. 87 - 93). Some good continuous mgf examples in here</h4>
 
 <td><a href="https://stat400.github.io/PDFs/lectures/Week5/S21_3.1.pdf" target="_blank">3.1 Continuous Random Variables (.pdf)</a>  
+
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_yia19hdv" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_yia19hdv/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <h2 id = "Week6"> Week 6 <h2>
 <h3> Topics: </h3>
