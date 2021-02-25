@@ -50,5 +50,5 @@ Video in two parts due to technical issues:
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Week4/400_Disc_week_3.pdf" target="_blank">Typed Discussion Solutions.pdf</a>
   
 <h2 id = "Week5"> Discussion 4 - Midterm 1 Review (Week 5)<h2>
-<h3><a href= "https://stat400.github.io/PDFs/discussion/Week5/Eddie's Review Midterm 1.pdf.pdf" target="_blank">Eddie's Midterm 1 Review Solutions</a>
+<h3><a href= "https://stat400.github.io/PDFs/discussion/Week5/Eddie's Review Midterm 1.pdf" target="_blank">Eddie's Midterm 1 Review Solutions</a>
 
