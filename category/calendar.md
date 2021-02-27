@@ -173,7 +173,7 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 <h4></h4>
 <td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.4-2.6.pdf" target="_blank">2.4 - 2.6 Hypergeometric, Multinomial, Poisson (.pdf)</a>  <a href="https://stat400.github.io/PDFs/lectures/Week4/S21 2.4-2.6 notes.pdf" target="_blank">   notes</a></td>
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.3.pdf" target="_blank">2.3 Moment Generating Function (.pdf)</a>  
+<td><a href="https://stat400.github.io/PDFs/lectures/Week4/S21_2.3.pdf" target="_blank">2.3 Moment Generating Function (.pdf)</a>  <a href="https://stat400.github.io/PDFs/lectures/Week5/S21_2.3_notes.pdf" target="_blank">   notes</a></td>
 <h4></h4>
 <td><a href="https://stat400.github.io/PDFs/reference_materials/r discrete functions.R" target="_blank">Discrete functions (.R)</a>  
 <h4></h4>

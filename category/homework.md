@@ -46,7 +46,7 @@ All Homework is due at 11:59pm via Gradescope.
             <td></td>
           </tr>
 
-          /home/albert/stat400.github.io/PDFs/homework_solutions/Spring_2021_Stat_400_Hw_3_Solutions.pdf
+          
           <tr>
             <td>Week 6</td>
             <td>Homework 6</td>
