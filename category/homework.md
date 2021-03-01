@@ -41,7 +41,7 @@ All Homework is due at 11:59pm via Gradescope.
           </tr>
           <tr>
             <td>Week 5</td>
-            <td>Homework 5</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_5.pdf" target="_blank"> Homework 5</a></td>
             <td>Homework 5 Solutions</td>
             <td></td>
           </tr>
