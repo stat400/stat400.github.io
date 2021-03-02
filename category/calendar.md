@@ -196,7 +196,13 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 
 <h2 id = "Week6"> Week 6 <h2>
 <h3> Topics: </h3>
-<b>(3.2)</b> Uniform and Exponential Distribution, <b>(3.2)</b> Gamma Distribution, <b>(3.3)</b> Normal Distribution, <b>(4.1)</b> Bivariate Distributions (Discrete)
+<h4><b>(3.2)</b> Uniform and Exponential Distribution, <b>(3.2)</b> Gamma Distribution, <b>(3.3)</b> Normal Distribution, <b>(4.1)</b> Bivariate Distributions (Discrete)</h4>
+
+<td><a href="https://stat400.github.io/PDFs/lectures/Week6/Sp21_3.2.pdf" target="_blank">3.2 Uniform and Exponential (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week5/S21_3.2 notes.pdf" target="_blank">   </a></td>
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week6/Sp21_3.2_3.3.pdf" target="_blank">3.2, 3.3 Gamma and Normal (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week5/S21_3.2 notes.pdf" target="_blank">    </a></td>
+
+
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week7"> Week 7</h2>
