@@ -37,7 +37,7 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week5">Week 5</a> &ndash; (2/22 - 2/26)</td>
-            <td><b>(3.1)</b> Continuous Random Variables, EXAM 1</td>
+            <td><b>(3.1)</b> Continuous Random Variables, <b style="color:blue">Exam 1.</b></td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -52,7 +52,7 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week8">Week 8</a> &ndash; (3/15 - 3/19)</td>
-            <td><b>(4.2)</b> Covariance, EXAM 2</td>
+            <td><b>(4.2)</b> Covariance, <b style="color:blue">Exam 2.</b></td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -67,38 +67,37 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week11">Week 11</a> &ndash; (4/5 - 4/9)</td>
-            <td><b>(7.3)</b> Confidence Intervals for Proportions, <b>(8.1)</b> Hypothesis Tests for One Mean,  <b>(8.3)</b> Hypothesis Tests for One Proportion </td>
+            <td><b style="color:blue">Stat 400 Mental Wellness Break! (Non-instructional week)</b></td>
             <!-- <td></td> -->
           </tr>
-          <tr>
+             <tr>
             <td><a href="#Week12">Week 12</a> &ndash; (4/12 - 4/16)</td>
-            <td><b>(8.2)</b> Hypothesis Tests for Variances and Two Means, EXAM 3</td>
+            <td><b>(7.3)</b> Confidence Intervals for Proportions (video), <b style="color:blue">Exam 3.</b></td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week13">Week 13</a> &ndash; (4/19 - 4/23)</td>
-            <td> <b>(8.3)</b> Hypothesis Tests for Two Proportions, <b>(8.5)</b> Power of a Statistical Test</td>
+            <td><b>(8.1)</b> Hypothesis Tests for One Mean,  <b>(8.3)</b> Hypothesis Tests for One Proportion, <b>(8.2)</b> Hypothesis Tests for Variances and Two Means</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week14">Week 14</a> &ndash; (4/26 - 4/30)</td>
-            <td> <b>(9.1)</b> Chi-Square Goodness-of-Fit Test, <b>(9.2)</b> Chi-Square Test for Homogeneity and Independence (Contingency Tables), <b>(4.3)</b> Conditional Distributions  </td>
+            <td> <b>(8.3)</b> Hypothesis Tests for Two Proportions, <b>(8.5)</b> Power of a Statistical Test</td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week15">Week 15</a> &ndash; (5/3 - 5/7)</td>
-            <td> Various Topics: Markov's Inequality, Chebyshev's Inequality, Invariance of MLEs, Mean Squared Error</td>
+            <td> <b>(9.1)</b> Chi-Square Goodness-of-Fit Test, <b>(9.2)</b> Chi-Square Test for Homogeneity and Independence (Contingency Tables), <b>(4.3)</b> Conditional Distributions  </td>
             <!-- <td></td> -->
           </tr>
           <tr>
             <td><a href="#Week16">Week 16</a> &ndash; (5/10 - 5/14)</td>
-            <td> Review </td>
+            <td> Various Topics (not on final exam): Markov's Inequality, Chebyshev's Inequality, Invariance of MLEs, Mean Squared Error; <b>Final Exam Review</b></td>
             <!-- <td></td> -->
-          </tr> 
+          </tr>
         </tbody>
       </table>
     </div>
-
 <h2 id = "Week1"> Week 1<h2>
 <h3> Lecture Notes: </h3>
 Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RStudio
