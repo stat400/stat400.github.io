@@ -43,51 +43,49 @@ All Homework is due at 11:59pm via Gradescope.
             <td>Week 5</td>
             <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_5.pdf" target="_blank"> Homework 5</a></td>
             <td>Homework 5 Solutions</td>
-            <td></td>
+            <td>Tues Mar 2</td>
           </tr>
-
-          
           <tr>
             <td>Week 6</td>
             <td>Homework 6</td>
             <td>Homework 6 Solutions</td>
-            <td></td>
+            <td>Tues Mar 9</td>
           </tr>
           <tr>
             <td>Week 7</td>
             <td>Homework 7</td>
             <td>Homework 7 Solutions</td>
-            <td></td>
+            <td>Tues Mar 16</td>
           </tr>
           <tr>
             <td>Week 8</td>
             <td>Homework 8</td>
             <td>Homework 8 Solutions</td>
-            <td></td>
+            <td>Tues Mar 23</td>
           </tr>
           <tr>
             <td>Week 9</td>
             <td>Homework 9</td>
             <td>Homework 9 Solutions</td>
-            <td></td>
+            <td>Tues Mar 30</td>
           </tr>
           <tr>
             <td>Week 10</td>
             <td>Homework 10</td>
             <td>Homework 10 Solutions</td>
-            <td></td>
+            <td>Tues Apr 13</td>
           </tr>
           <tr>
             <td>Week 11</td>
             <td>Homework 11</td>
             <td>Homework 11 Solutions</td>
-            <td></td>
+            <td>Tues Apr 20</td>
           </tr>
           <tr>
             <td>Week 12</td>
             <td>Homework 12</td>
             <td>Homework 12 Solutions</td>
-            <td></td>
+            <td>Tues Apr 27</td>
           </tr>
         </tbody>
       </table>
