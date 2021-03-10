@@ -214,10 +214,13 @@ Course Overview, <b>(1.1)</b> Probability and Set Notation, Intro to <b>R</b>/RS
 Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b>(4.2)</b>, (part 1)  Functions of Normal Random Variables  <b>(5.5)</b>, Law of Large Numbers and Central Limit Theorem <b>(5.6)</b>
 <h4> <b>Recommended Textbook Pages: Read Sections 4.1, 4.2, 4.4. </b> (4.3 and 4.5 are good to know for Stat 410) </h4>
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/Week7/S21_4.4.pdf" target="_blank">4.4 Continuous Bivariate Distributions (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week6/S21_3.2_notes.pdf" target="_blank">   </a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week7/S21_4.4.pdf" target="_blank">4.4 Continuous Bivariate Distributions (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week7/S21_4.4 notes.pdf" target="_blank">  notes </a></td>
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/Week7/S21_4.2.pdf" target="_blank">4.2 Covariance and Correlation (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week6/S21_3.2_notes.pdf" target="_blank">   </a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week7/S21_4.2.pdf" target="_blank">4.2 Covariance and Correlation (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week7/S21_4.2 notes.pdf" target="_blank"> notes  </a></td>
 <h4></h4>
+
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_kkiaj2z6" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_kkiaj2z6/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+
 
 <h2 id = "Week8"> Week 8 <h2>
 <h3> Topics: </h3>
