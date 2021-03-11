@@ -68,3 +68,6 @@ Video in two parts due to technical issues:
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Week6/Spring_2021_Thur_Dis_4.pdf" target="_blank">Thursday Discussion 4 Solutions.pdf</a>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
+
+<h2 id = "Week4"> Discussion 5 (Week 7)<h2>
+<h4><a href= "https://stat400.github.io/PDFs/discussion/Week7/Discussion_5.pdf" target="_blank">Discussion 5.pdf</a>
