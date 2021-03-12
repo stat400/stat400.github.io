@@ -17,6 +17,9 @@ title: Exams
 <h2>Midterm 2</h2>
 <h3>Date: Thurs Mar 18 </h3>
 <h3>Lectures Covered: </h3>
+* Up until and <b>including</b> sections <b> 5.5</b> and <b>5.6</b> (Thurs Mar 11)
+* Focus is on new material
+* Technically cumulative
 
 <br>
 <h2>Midterm 3</h2>
@@ -38,6 +41,7 @@ Q: What time should I show up for my midterms?
 
 Q: How many exams are there?
 : A: There are three midterms and one final exam.
+
 
 Q: How much are our exams worth?
 : A: Each midterm is 15% of your grade, and your final exam is 25% of your grade. As stated in the syllabus, if your final exam score is better than your worst midterm score, your worst midterm score will be dropped and replaced with the final.
