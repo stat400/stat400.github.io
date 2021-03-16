@@ -237,6 +237,9 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <td><a href="https://stat400.github.io/PDFs/lectures/Week8/S21_WLLN_Ineq_Cov.pdf" target="_blank">WLLN, Markov and Chebyshev Inequalities, Covariance Properties (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week8/S21_4.2_5.6 notes.pdf" target="_blank"> notes  </a></td>
 <h4></h4>
 
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_4xjvnfaf" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_4xjvnfaf/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
+
+
 <h2 id = "Week9"> Week 9 <h2>
 <h3> Topics: </h3>
 <b>(6.4)</b> Point Estimation (Maximum Likelihood, Method of Moments), <b>(6.4)</b> Bias/Unbiasedness
