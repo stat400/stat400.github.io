@@ -52,7 +52,7 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week8">Week 8</a> &ndash; (3/15 - 3/19)</td>
-            <td><b>(4.2)</b> Covariance, <b style="color:blue">Exam 2.</b></td>
+            <td><b>(4.2)</b> WLLN, Markov and Chebyshev Inequalities, Covariance Properties, <b style="color:blue">Exam 2.</b></td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -92,7 +92,7 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week16">Week 16</a> &ndash; (5/10 - 5/14)</td>
-            <td> Various Topics (not on final exam): Markov's Inequality, Chebyshev's Inequality, Invariance of MLEs, Mean Squared Error; <b>Final Exam Review</b></td>
+            <td> Various Topics (not on final exam): Invariance of MLEs, Mean Squared Error; <b>Final Exam Review</b></td>
             <!-- <td></td> -->
           </tr>
         </tbody>
@@ -231,8 +231,11 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 
 <h2 id = "Week8"> Week 8 <h2>
 <h3> Topics: </h3>
-<b>(4.2)</b> Covariance
+<b>(4.2)</b> WLLN, Markov and Chebyshev Inequalities, Covariance Properties
 <!-- <h4> Recommended Textbook Pages: </h4> -->
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week8/S21_WLLN_Ineq_Cov.pdf" target="_blank">WLLN, Markov and Chebyshev Inequalities, Covariance Properties (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week7/mar11.pdf" target="_blank">  </a></td>
+<h4></h4>
 
 <h2 id = "Week9"> Week 9 <h2>
 <h3> Topics: </h3>
