@@ -234,7 +234,7 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <b>(4.2)</b> WLLN, Markov and Chebyshev Inequalities, Covariance Properties
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 <h4></h4>
-<td><a href="https://stat400.github.io/PDFs/lectures/Week8/S21_WLLN_Ineq_Cov.pdf" target="_blank">WLLN, Markov and Chebyshev Inequalities, Covariance Properties (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week7/mar11.pdf" target="_blank">  </a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week8/S21_WLLN_Ineq_Cov.pdf" target="_blank">WLLN, Markov and Chebyshev Inequalities, Covariance Properties (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week8/S21_4.2_5.6 notes.pdf" target="_blank"> notes  </a></td>
 <h4></h4>
 
 <h2 id = "Week9"> Week 9 <h2>
