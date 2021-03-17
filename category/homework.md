@@ -41,11 +41,11 @@ All Homework is due at 11:59pm via Gradescope.
           </tr>
           <tr>
             <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_6.pdf" target="_blank"> Homework 6</a></td>
-            <td>Homework 6 Solutions</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework_solutions/Spring_2021_Stat_400_Hw_6_Solutions.pdf" target="_blank"> Homework 6 Solutions</a></td>
             <td>Tues Mar 16</td>
           </tr>
           <tr>
-            <td>Homework 7</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/S21_Hw7.pdf" target="_blank"> Homework 7</a></td>
             <td>Homework 7 Solutions</td>
             <td>Tues Mar 23</td>
           </tr>
