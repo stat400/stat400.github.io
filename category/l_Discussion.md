@@ -77,3 +77,8 @@ Video in two parts due to technical issues:
 <h3>Solutions</h3>
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Week7/Spring 2021 Wed Dis 5.pdf" target="_blank">Wednesday Discussion 5 Solutions.pdf</a>
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Week7/Spring 2021 Thur Dis 5.pdf" target="_blank">Thursday Discussion 5 Solutions.pdf</a>
+  
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+  
+<h2 id = "Week4"> Midterm 2 Review (Week 8)<h2>
+<h3><a href= "https://stat400.github.io/PDFs/discussion/Week8/Eddie's Review Midterm 2.pdf" target="_blank">Eddie's Midterm 2 Review Solutions</a>
