@@ -82,3 +82,10 @@ Video in two parts due to technical issues:
   
 <h2 id = "Week4"> Midterm 2 Review (Week 8)<h2>
 <h3><a href= "https://stat400.github.io/PDFs/discussion/Week8/Eddie's Review Midterm 2.pdf" target="_blank">Eddie's Midterm 2 Review Solutions</a>
+
+
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+<h2 id = "Week4"> Discussion 6 (Week 9)<h2>
+
+<h4><a href= "https://stat400.github.io/PDFs/discussion/Week9/D6.pdf" target="_blank">Discussion 6.pdf</a>
+  
