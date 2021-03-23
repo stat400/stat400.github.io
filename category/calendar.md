@@ -243,7 +243,11 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <h2 id = "Week9"> Week 9 <h2>
 <h3> Topics: </h3>
 <b>(6.4)</b> Point Estimation (Maximum Likelihood, Method of Moments), <b>(6.4)</b> Bias/Unbiasedness
+
 <!-- <h4> Recommended Textbook Pages: </h4> -->
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week9/S21_6.4(pdf).pdf" target="_blank">Maximum Likelihood Estimation (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week8/S21_4.2_5.6 notes.pdf" target="_blank">  </a></td>
+<h4></h4>
 
 <h2 id = "Week10"> Week 10 <h2>
 <h3> Topics: </h3>
