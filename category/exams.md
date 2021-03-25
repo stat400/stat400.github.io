@@ -28,7 +28,7 @@ title: Exams
 
 <br>
 <h2>Final Exam</h2>
-<h3>Date: TBD</h3>
+<h3>Date: Thurs May 13 7-10pm, Fri May 14 8-11am (conflict exam)</h3>
 <h3>Lectures Covered: all </h3>
 
 <br>
