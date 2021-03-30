@@ -260,6 +260,11 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <h3> Topics: </h3>
 <b>(5.5)</b> Student's t Distribution, <b>(7.1)</b> Confidence Intervals for Means, <b>(7.4)</b> Sample Size, <b>(3.2)</b> Chi-Squared Distribution, <b>***</b>Confidence Interval for Variances and Standard Deviations (not in textbook)
 <!-- <h4> Recommended Textbook Pages: </h4> -->
+<h4></h4>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week10/S21 Chisq, t, CI mean pdf.pdf" target="_blank">Chi-square, t, CI mean (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week9/S21_6.4_notes1.pdf" target="_blank">  </a></td>
+<h4></h4>
+
+
 
 <h2 id = "Week11"> Week 11 <h2>
 <h3> Topics: </h3>
