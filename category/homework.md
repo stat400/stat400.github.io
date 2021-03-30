@@ -55,7 +55,7 @@ All Homework is due at 11:59pm via Gradescope.
             <td>Tues Mar 30</td>
           </tr>
           <tr>
-            <td>Homework 9</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/S21_Hw9.pdf" target="_blank"> Homework 9</a></td>
             <td>Homework 9 Solutions</td>
             <td>Tues Apr 13</td>
           </tr>
