@@ -264,9 +264,12 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <td><a href="https://stat400.github.io/PDFs/lectures/Week10/S21 Chisq, t, CI mean pdf.pdf" target="_blank">Chi-square, t, CI mean (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week10/S21 Chisq, t, CI mean notes.pdf" target="_blank">  notes </a></td>
 <h4></h4>
 
+<td><a href="https://stat400.github.io/PDFs/lectures/Week10/S21 CI for sigma, sample size.pdf" target="_blank">Sample size (7.4), CI for variance (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week10/S21 CI for sigma, sample size notes.pdf" target="_blank">  notes </a></td>
+<h4></h4>
+
 <div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_ozi6n67m" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_ozi6n67m/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
-
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_yu1gfsu9" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_yu1gfsu9/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <h2 id = "Week11"> Week 11 <h2>
 <h3> Topics: </h3>
