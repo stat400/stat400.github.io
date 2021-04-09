@@ -272,11 +272,16 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_yu1gfsu9" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_yu1gfsu9/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <h2 id = "Week11"> Week 11 <h2>
-<h3> Topics: </h3>
+<h3> Topics: Break, <b>(7.3)</b> Confidence Intervals for Proportions</h3>
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
+<td><a href="https://stat400.github.io/PDFs/lectures/Week11/S21_7.3.pdf" target="_blank">Confidence Intervals for Proportions (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week11/S21_7.3_notes_pdf.pdf" target="_blank">  notes </a></td>
+<h4></h4>
+
+<iframe id="kmsembed-1_pxzl5g57" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_pxzl5g57/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+
 <h2 id = "Week12"> Week 12 <h2>
-<h3> Topics: </h3>
+<h3> Topics: Review, Exam </h3>
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week13"> Week 13 <h2>
