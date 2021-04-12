@@ -25,6 +25,12 @@ title: Exams
 <h2>Midterm 3</h2>
 <h3>Date: Thurs Apr 15</h3>
 <h3>Lectures Covered: </h3>
+* Up until and <b>including</b> sections <b> April 2nd lecture (before break).
+* No CIs for proportions on this midterm.
+* No Markov or Chebyshev Inequality
+* Focus is on new material
+* Technically <b>cumulative</b>
+
 
 <br>
 <h2>Final Exam</h2>
