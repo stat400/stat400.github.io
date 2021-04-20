@@ -60,7 +60,7 @@ All Homework is due at 11:59pm via Gradescope.
             <td><b>Wed</b> Apr 14</td>
           </tr>
           <tr>
-            <td>Homework 10</td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/S21_Hw10.pdf" target="_blank"> Homework 10</a></td>
             <td>Homework 10 Solutions</td>
             <td>Tues Apr 27</td>
           </tr>
