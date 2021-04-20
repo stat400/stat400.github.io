@@ -285,7 +285,9 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week13"> Week 13 <h2>
-<h3> Topics: </h3>
+<h3> Topics: <b>(8.1)</b> Hypothesis Tests for One Mean,  <b>(8.3)</b> Hypothesis Tests for One Proportion, <b>(8.2)</b> Hypothesis Tests for Variances and Two Means </h3>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week13/8.1_8.3.pdf" target="_blank">Hypothesis Tests for One Mean and One Proportion (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week11/S21_7.3_notes_pdf.pdf" target="_blank">  </a></td>
+
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week14"> Week 14 <h2>
