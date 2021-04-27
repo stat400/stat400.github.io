@@ -297,7 +297,9 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week14"> Week 14 <h2>
-<h3> Topics: </h3>
+<h3> Topics: <b>(8.3)</b> Paired t-test, Test for 2 proportions, <b>(8.5)</b>Power</h3>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week14/S21_8.3_8.5.pdf" target="_blank">Paired t-test (review), Test for 2 proportions (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week13/S21_8.2_notes.pdf" target="_blank">  </a></td>
+
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week15"> Week 15 <h2>
