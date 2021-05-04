@@ -87,7 +87,7 @@ title: Schedule (Lectures)
           </tr>
           <tr>
             <td><a href="#Week15">Week 15</a> &ndash; (5/3 - 5/7)</td>
-            <td> <b>(9.1)</b> Chi-Square Goodness-of-Fit Test, <b>(9.2)</b> Chi-Square Test for Homogeneity and Independence (Contingency Tables), <b>(4.3)</b> Conditional Distributions  </td>
+            <td> <b>(9.1)</b> Chi-Square Goodness-of-Fit Test, <b>(9.2)</b> Chi-Square Test for Homogeneity and Independence (Contingency Tables)</td>
             <!-- <td></td> -->
           </tr>
           <tr>
@@ -307,8 +307,10 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <!-- <h4> Recommended Textbook Pages: </h4> -->
 
 <h2 id = "Week15"> Week 15 <h2>
-<h3> Topics: </h3>
+<h3> Topics: <b>(9.1)</b> Chi-Square Goodness-of-Fit Test, <b>(9.2)</b> Chi-Square Test for Homogeneity and Independence (Contingency Tables), Exact p-value  </h3>
 <!-- <h4> Recommended Textbook Pages: </h4> -->
+<td><a href="https://stat400.github.io/PDFs/lectures/Week15/S21_9.1_9.2.pdf" target="_blank">Chi squared tests, exact p-value (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week14/8.3_8.5notes.pdf" target="_blank">  </a></td>
+
 
 <h2 id = "Week16"> Week 16 <h2>
 <h3> Topics: </h3>
