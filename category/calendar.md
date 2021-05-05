@@ -309,8 +309,9 @@ Bivariate Distributions (Continuous) <b>(4.4)</b>, Covariance and Correlation <b
 <h2 id = "Week15"> Week 15 <h2>
 <h3> Topics: <b>(9.1)</b> Chi-Square Goodness-of-Fit Test, <b>(9.2)</b> Chi-Square Test for Homogeneity and Independence (Contingency Tables), Exact p-value  </h3>
 <!-- <h4> Recommended Textbook Pages: </h4> -->
-<td><a href="https://stat400.github.io/PDFs/lectures/Week15/S21_9.1_9.2.pdf" target="_blank">Chi squared tests, exact p-value (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week14/8.3_8.5notes.pdf" target="_blank">  </a></td>
+<td><a href="https://stat400.github.io/PDFs/lectures/Week15/S21_9.1_9.2.pdf" target="_blank">Chi squared tests, exact p-value (.pdf)</a> <a href="https://stat400.github.io/PDFs/lectures/Week15/S21_9.1_9.2notes.pdf" target="_blank"> notes </a></td>
 
+<div style="max-width:640px"><div style="position:relative;padding-bottom:61.5625%"><iframe id="kmsembed-1_r21mzuav" width="640" height="394" src="https://mediaspace.illinois.edu/embed/secure/iframe/entryId/1_r21mzuav/uiConfId/26883701" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player" style="position:absolute;top:0;left:0;width:100%;height:100%"></iframe></div></div>
 
 <h2 id = "Week16"> Week 16 <h2>
 <h3> Topics: </h3>
