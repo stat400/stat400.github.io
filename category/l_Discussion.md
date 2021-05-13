@@ -123,3 +123,8 @@ Discussion 10
 
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Week15/Discussion_10.pdf" target="_blank"> Discussion 10.pdf</a>
 <h4><a href= "https://stat400.github.io/PDFs/discussion/Week15/Discussion_10_SOLS.pdf" target="_blank"> Discussion 10 Solutions.pdf</a>
+  
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+Final Exam Review
+
+<h4><a href= "https://stat400.github.io/PDFs/discussion/Week16/Spring 2021 Final Review.pdf" target="_blank"> Spring 2021 Final Review.pdf</a>
