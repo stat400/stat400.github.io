@@ -40,7 +40,7 @@ function parseVars(dict) {
             progDict[k] = replaced;
         }
     }
-    console.log(copy);
+    // console.log(copy);
     return copy;
 }
 
