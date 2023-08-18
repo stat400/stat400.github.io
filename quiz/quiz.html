@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>STAT 400 Practice</title>
+    <link href="styles/style.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://pyscript.net/releases/2022.12.1/pyscript.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css" integrity="sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js" integrity="sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js" integrity="sha384-+VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4+/RRE05" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          renderMathInElement(document.body, {
+            // customised options
+            // • auto-render specific keys, e.g.:
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // • rendering keys, e.g.:
+            throwOnError : false
+          });
+      });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/11.5.1/math.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jstat@latest/dist/jstat.min.js"></script>
+    <script src="scripts/global-vars.js"></script>
+    <script src="scripts/numeric-functions.js"></script>
+    <script src="scripts/stat-reg.js"></script>
+    <script src="scripts/string-parser.js"></script>
+    <script src="scripts/collapsible.js" defer></script>
+    <script src="scripts/questions/test-questions.js"></script>
+    <script src="scripts/questions/prob-questions.js"></script>
+    <script src="scripts/questions/disc-dist-questions.js"></script>
+    <script src="scripts/questions/cont-dist-questions.js"></script>
+    <script src="scripts/quiz.js" defer></script>
+  </head>
+  </head>
+  <body>
+    <h1>Stat 400 Practice</h1>
+    <label for="qtype">Choose a topic:</label>
+    <select name="qtype" id="qtype">
+        <!--option value="testq">Test Question</option-->
+        <option value="prob" selected>General Probability</option>
+        <!--option value="ddist">Discrete Distributions</option-->
+        <!--option value="cdist">Continuous Distributions</option-->
+    </select>
+    <div id="quiz"></div>
+    <div id="res">
+        <button id="submit">Check Answer</button>
+        <div id="results"></div>
+        <button id="new-q">New Question</button>
+    </div>
+    <button type="button" id="soln-col" class="collapsible">Show Solution</button>
+    <div class="solns" id="solns">
+        <p>LOL, of course there are no solutions!</p>
+    </div>
+    <div id="guidelines" class="grow">
+      <span id="infocon"><img src="images/infoicon.png" width="30" height="30"></span>
+      <p id="rules">
+      <ol>
+        <li>You may either give an exact answer (the relative tolerance is 1e-5), or round to 4 decimal places. <i>Fractions</i> (not <i>expressions</i>) are accepted. These are largely the same guidelines for homework and exams.</li>
+        <li>The solutions tab will often not contain the numerical solution, or even many numbers at all. It instead guides you to find the answer. In either case, it should be used as a last resort.</li>
+        <li>If you believe any there is a mistake with any question or solution, please bring it up in the Discord server.</li>
+        <li>Questions marked with a gold star (⭐) are more challenging. You likely do not have to know how to solve them in order to succeed in this course 😎</li>
+        <li>Unless stated otherwise, all n-sided dice are fair and contain the integers 1 to n, inclusive, on their faces.</li>
+      </ol>
+    </p>
+  </div>
+  </body>
+</html>

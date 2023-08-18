@@ -1,0 +1,162 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: 'Raleway', sans-serif;
+    background-color: #faf0e6;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 30px;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+label {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.question {
+	font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.answers {
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+#results {
+    height: 55px;
+    width: 150px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}
+.incRes {
+    background-color: rgb(248, 88, 88);
+}
+
+.abox {
+    height: 120%;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px 10px;
+}
+#submit, #new-q {
+	font-size: 20px;
+	background-color: #297;
+	color: #fff;
+	border: 0px;
+	border-radius: 10px;
+	padding: 20px;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+#submit:hover, #new-q:hover {
+	background-color: rgb(98, 180, 156);
+}
+
+#qtype {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+#res {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.collapsible {
+    background-color: #f5b731;
+    color: #101010;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 20px;
+}
+
+.active, .collapsible:hover {
+    background-color: #f6d076;
+}
+  
+  /* Style the collapsible content. Note: hidden by default */
+.solns {
+    padding: 0 18px;
+    background-color: rgb(248, 242, 189);
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-in;
+}
+
+
+.collapsible:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.grow {
+    padding: 42px 32px;
+    border-radius: 10px;
+    height: 49px;
+    width: 90%;
+    margin: 30px 0% 5px 0%;
+    float: left;
+    position: relative;
+    transition: all ease-in-out 0.6s;
+    transition: all ease-in-out 0.6s;
+    overflow: hidden;
+    clip-path: circle(4.5% at 5% 18%);
+    cursor: pointer;
+}
+.grow:hover {
+    height: 470px;
+    clip-path: circle(75%);
+    border-radius: 20px;
+    box-shadow: 5px 8px 30px rgba(0,0,0,0.5);
+}
+
+#infocon {
+    position: absolute;
+    top: -3px;
+    left: 16px;
+    font-size: 3.6em;
+    transition: ease-out 0.3s;
+}
+
+#guidelines {
+    background-color: rgb(198, 173, 254);
+}

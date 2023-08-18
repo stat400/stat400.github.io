@@ -1,0 +1,19 @@
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/lukep2/.rbenv/versions/3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-phx0jv sitelibdir\=./.gem.20230818-7227-phx0jv clean
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-phx0jv sitelibdir\=./.gem.20230818-7227-phx0jv
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-phx0jv sitelibdir\=./.gem.20230818-7227-phx0jv install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20230818-7227-phx0jv
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-phx0jv sitelibdir\=./.gem.20230818-7227-phx0jv clean

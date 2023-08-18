@@ -1,0 +1,27 @@
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/home/lukep2/.rbenv/versions/3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-upp3l9 sitelibdir\=./.gem.20230818-7227-upp3l9 clean
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-upp3l9 sitelibdir\=./.gem.20230818-7227-upp3l9
+compiling ruby_http_parser.c
+ruby_http_parser.c: In function ‘Parser_execute’:
+ruby_http_parser.c:365:17: warning: comparison of integer expressions of different signedness: ‘size_t’ {aka ‘long unsigned int’} and ‘long int’ [-Wsign-compare]
+  365 |     if (nparsed < len)
+      |                 ^
+ruby_http_parser.c: At top level:
+cc1: warning: unrecognized command line option ‘-Wno-self-assign’
+cc1: warning: unrecognized command line option ‘-Wno-parentheses-equality’
+cc1: warning: unrecognized command line option ‘-Wno-constant-logical-operand’
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-upp3l9 sitelibdir\=./.gem.20230818-7227-upp3l9 install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20230818-7227-upp3l9
+
+current directory: /home/lukep2/stat400site/website/vendor/cache/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20230818-7227-upp3l9 sitelibdir\=./.gem.20230818-7227-upp3l9 clean
