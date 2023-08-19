@@ -15,6 +15,11 @@ All Homework is due at 11:59pm via Gradescope.
         </thead>
         <tbody>
           <tr>
+            <td><a href= "" target="_blank"> Homework 1</a></td>
+            <td><a href= "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> Homework 1 Solutions</a></td>
+            <td>Tues Feb 9</td>
+          </tr>
+          <!--tr>
             <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_1.pdf" target="_blank"> Homework 1</a></td>
             <td><a href= "https://stat400.github.io/PDFs/homework_solutions/Stat_400_Hw_1_solutions.pdf" target="_blank"> Homework 1 Solutions</a></td>
             <td>Tues Feb 9</td>
@@ -73,7 +78,7 @@ All Homework is due at 11:59pm via Gradescope.
             <td>Homework 12</td>
             <td>N/A</td>
             <td>N/A</td>
-          </tr>
+          </tr-->
         </tbody>
       </table>
     </div>
