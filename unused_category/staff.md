@@ -1,8 +1,9 @@
+<!---
 ---
 layout: category
 title: Meet the Course Staff!
 ---
-<!-- TODO: STAIRCASE CSS STYLE -->
+
 
 ## Instructor
 
@@ -101,3 +102,4 @@ Hi! My name is Sagar and I am a senior majoring in Electrical Engineering and mi
 <img src="https://raw.githubusercontent.com/stat400/stat400.github.io/main/PDFs/bio_photos/Chloe.jpg" alt="Albert Yu" style="width:200px;">
 
 Hi i'm Chloe. i like to play. i like to eat. i like sleep. i like to take walks. i like car rides. i like to run along on bike rides. i like to chase rabbits and squirrels. i'm not allowed to. my favorite store is home depot because i'm allowed to sniff and they give me treats.
+-->

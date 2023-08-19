@@ -2,6 +2,8 @@
 
 **Author**: Alexander Li - [`akli2@illinois.edu`](mailto:akli2@illinois.edu)
 
+**Quiz Creator**: Luke Peng - [`lukep2@illinois.edu`](mailto:lukep2@illinois.edu)
+
 ## Setting up Environment
 
 ### General Instructions
