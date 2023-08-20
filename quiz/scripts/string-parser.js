@@ -13,19 +13,25 @@ function parseVars(dict) {
     for (let k in copy) {
         let v = String(copy[k]);
         if (v.startsWith("randint")) {
-            let range = v.slice(8, v.length).split(',').map(item => template(item, progDict)).map(item => parseInt(item, 10));
+            let range = v.slice(8, v.length - 1).split(',').map(item => template(item, progDict)).map(item => parseMEval(item, progDict)).map(item => parseInt(item, 10));
             let randomInt = randint(...range);
             copy[k] = randomInt;
             progDict[k] = randomInt;
         }
         else if (v.startsWith("randuni")) {
-            let parts = v.slice(8, v.length).split(',').map(item => template(item, progDict));
+            let parts = v.slice(8, v.length - 1).split(',').map(item => template(item, progDict));
             let lower = parseFloat(parts[0]);
             let upper = parseFloat(parts[1]);
             let digits = parseInt(parts[2]);
             let randomUni = randuni(lower, upper, digits)
             copy[k] = randomUni;
             progDict[k] = randomUni;
+        }
+        else if (v.startsWith("randcint")) { // e.g. randcint([1,2,3])
+            let parts = v.slice(10, v.length - 2).split(',').map(item => template(item, progDict)).map(item => parseInt(item));
+            let randomInt = randomChoice(parts);
+            copy[k] = randomInt;
+            progDict[k] = randomInt;
         }
         else if (v.startsWith("meval")) {
             let expr = v.slice(6, v.length-1);
@@ -40,7 +46,6 @@ function parseVars(dict) {
             progDict[k] = replaced;
         }
     }
-    // console.log(copy);
     return copy;
 }
 
