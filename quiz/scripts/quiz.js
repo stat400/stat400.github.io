@@ -105,3 +105,4 @@ document.getElementById("new-q").onclick = makeQuiz;
 
 
 // node quiz.js
+// bundle exec jekyll serve
