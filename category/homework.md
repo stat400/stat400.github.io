@@ -15,7 +15,7 @@ All Homework is due at 11:59pm via Gradescope.
         </thead>
         <tbody>
           <tr>
-            <td><a href= "" target="_blank"> Homework 1</a></td>
+            <td><a href= "https://stat400.github.io/PDFs/homework/F23_400_Hw1.pdf" target="_blank"> Homework 1</a></td>
             <td><a href= "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> Homework 1 Solutions</a></td>
             <td>Tues Feb 9</td>
           </tr>
