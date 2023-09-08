@@ -22,7 +22,7 @@ All Homework is due at 11:59pm via Gradescope.
           <tr>
             <td><a href= "https://stat400.github.io/PDFs/homework/F23_400_Hw2-1.pdf" target="_blank"> Homework 2</a></td>
             <td><a href= "https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"> Homework 2 Solutions</a></td>
-            <td>Tues Feb 16</td>
+            <td>Fri Sept 15</td>
           </tr>
           <!--tr>
             <td><a href= "https://stat400.github.io/PDFs/homework/Stat_400_Hw_1.pdf" target="_blank"> Homework 1</a></td>
