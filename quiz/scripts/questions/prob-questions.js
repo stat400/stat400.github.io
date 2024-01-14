@@ -569,4 +569,6 @@ var prob_questions = [
 
 var probq_id = "prob";
 qtype_to_var[probq_id] = prob_questions;
-console.log(`Loaded ${prob_questions.length} probability questions.`)
+if (devMode) {
+    console.log(`Loaded ${prob_questions.length} probability questions.`)
+}

@@ -40,6 +40,9 @@
     <script src="scripts/questions/prob-questions.js"></script>
     <script src="scripts/questions/disc-dist-questions.js"></script>
     <script src="scripts/questions/cont-dist-questions.js"></script>
+    <script src="scripts/questions/point-est-questions.js"></script>
+    <script src="scripts/questions/conf-int-questions.js"></script>
+    <script src="scripts/questions/hyp-test-questions.js"></script>
     <script src="scripts/quiz.js" defer></script>
   </head>
   </head>
@@ -47,10 +50,13 @@
     <h1>Stat 400 Practice</h1>
     <label for="qtype">Choose a topic:</label>
     <select name="qtype" id="qtype">
-        <!--option value="testq">Test Question</option-->
+        <option value="testq">Test Question</option>
         <option value="prob" selected>General Probability</option>
-        <!--option value="ddist">Discrete Distributions</option-->
-        <!--option value="cdist">Continuous Distributions</option-->
+        <option value="ddist">Discrete Distributions</option>
+        <option value="cdist">Continuous Distributions</option>
+        <option value="pestq">Point Estimation</option>
+        <option value="cintq">Confidence Intervals</option>
+        <option value="htestq">Hypothesis Testing</option>
     </select>
     <div id="quiz"></div>
     <div id="res">
@@ -70,7 +76,7 @@
         <li>The solutions tab will often not contain the numerical solution, or even many numbers at all. It instead guides you to find the answer. In either case, it should be used as a last resort.</li>
         <li>If you believe there is a mistake with any question or solution, please bring it up in the Discord server.</li>
         <li>Questions marked with a gold star (⭐) are more challenging. You likely do not have to know how to solve them in order to succeed in this course 😎</li>
-        <li>Unless stated otherwise, all n-sided dice are fair and contain the integers 1 to n, inclusive, on their faces.</li>
+        <li>Unless stated otherwise, all n-sided dice are fair and contain the integers 1 to n, inclusive, on their faces. Likewise, assume all populations are normally distributed.</li>
       </ol>
     </p>
   </div>

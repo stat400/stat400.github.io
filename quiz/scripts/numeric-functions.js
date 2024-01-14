@@ -17,6 +17,14 @@ function randuni(a, b, d) {
     return roundFloat((b-a) * Math.random() + a, d);
 }
 
+function reduce(numerator, denominator) { // https://stackoverflow.com/questions/4652468/is-there-a-javascript-function-that-reduces-a-fraction
+    var gcd = function gcd(a,b) {
+      return b ? gcd(b, a%b) : a;
+    };
+    gcd = gcd(numerator, denominator);
+    return [numerator/gcd, denominator/gcd];
+}
+
 function smartRound(float) {
     if (roundFloat(float, 10) % 1 == 0) {
         return Math.round(float);

@@ -70,6 +70,14 @@ function generateQuiz(questions, quizContainer, resultsContainer, solutionContai
 	}
 }
 
+if (!devMode) {
+    let qtypes = document.getElementById("qtype");
+    for (var i = 0; i < qtypes.length; i++) {
+        if (qtypes.options[i].value == testq_id)
+            qtypes.remove(i);
+    }
+}
+
 var quizContainer = document.getElementById('quiz');
 var resultsContainer = document.getElementById('results');
 var submitButton = document.getElementById('submit');
@@ -105,4 +113,3 @@ document.getElementById("new-q").onclick = makeQuiz;
 
 
 // node quiz.js
-// bundle exec jekyll serve

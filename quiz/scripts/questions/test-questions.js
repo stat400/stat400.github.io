@@ -1,18 +1,18 @@
 var test_questions = [
     {
-        prob: "Let \\(C\\) and \\(S\\) represent the points per game for basketball players Cobe and Shack, respectively. Suppose \\(C\\sim\\text{Poisson}({a})\\) and \\(S\\sim\\text{Poisson}({b})\\). Assuming \\(C\\) and \\(S\\) " +
-            "are independent, find the probability they score {f} points total in a single game.",
-        answer: "g",
+        prob: "The creator of the newest protein shake fad diet claims her users have lost 10% of their body weight, with a standard deviation of {a}%. To see whether the reported standard deviation is accurate, you survey {b} dieters. " +
+            "The sample standard deviation is {c}%. Determine the p-value of this test.",
+        answer: "2*(1-e)",
         vars: {
-            "a": "randint(20,40)",
-            "b": "randint(20,40)",
-            "c": "meval(a+b)",
-            "d": "meval(c-10)",
-            "e": "meval(c+10)",
-            "f": "randint({d},{e})",
-            "g": "@dpois({f},{c})"
+            "a": "randuni(1.6,1.8,2)", // sigma
+            "b": "randint(10,15)", // n
+            "c": "randuni(2,2.2,2)", // s
+            "t": "meval((b-1)*c^2/a^2)", // test statistic
+            "df": "meval(b-1)",
+            "e": "@pchisq({t},{df})" // p-value
         },
-        solution: "Since \\(C\\) and \\(S\\) are independent, we know \\(C+S\\sim\\text{Poisson}({a}+{b})\\). From here, we can apply the Poisson pmf for \\(\\lambda=@meval({a}+{b}@)\\) and \\(x={f}.\\)"
+        solution: "The p-value is two times the area to the right of the test statistic in this case. The test statistic can be calculated using the formula \\(\\frac{(n-1)s^2}{\\sigma^2}\\sim \\chi^2_{n-1}.\\)" +
+            "To find the area to the right of the test statistic, do \\(\\texttt{1-pchisq(({b}-1)*{c}\\char`\\^2/{a}\\char`\\^2,{b}-1)}\\) in R."
     },
 ]
 
